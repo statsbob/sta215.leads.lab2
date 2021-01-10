@@ -1,0 +1,832 @@
+VE_FORMS,PEDS,COUNTY,MONTH,DAY_WEEK,ROUTE,MAN_COLL,drunk_dr,light_cond,SPEEDREL,VSPD_LIM,age_dr1,sex_dr1
+2,0,63,January,Saturday,County Road,Angle,No,Daylight,Yes,55,27,Male
+2,0,137,January,Monday,State Highway,Front-to-Front,No,Daylight,No/unknown,55,68,Female
+1,1,15,January,Saturday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,55,16,Male
+2,0,75,January,Thursday,County Road,Front-to-Front,Yes,Not Daylight,No/unknown,55,20,Male
+2,0,49,January,Saturday,State Highway,Angle,No,Not Daylight,No/unknown,,25,Male
+2,0,17,January,Tuesday,Interstate,Angle,No,Not Daylight,No/unknown,70,73,Male
+1,1,163,January,Monday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,35,47,Male
+1,0,163,January,Thursday,State Highway,Not Col. Moving,No,Daylight,Yes,70,53,Female
+1,1,163,January,Saturday,Local Street,Not Col. Moving,Yes,Not Daylight,No/unknown,40,58,Female
+1,0,33,January,Saturday,County Road,Not Col. Moving,Yes,Not Daylight,Yes,55,61,Male
+1,0,71,January,Wednesday,U.S. Highway,Not Col. Moving,No,Not Daylight,Yes,55,49,Female
+1,1,163,January,Friday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,35,,Unknown
+1,0,115,January,Sunday,County Road,Not Col. Moving,No,Daylight,Yes,45,84,Female
+1,1,49,January,Saturday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,30,67,Male
+2,0,115,January,Sunday,Local Street,Sideswipe,No,Not Daylight,No/unknown,25,54,Male
+1,1,163,January,Saturday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,25,63,Unknown
+2,0,163,January,Sunday,State Highway,Angle,No,Not Daylight,No/unknown,35,20,Female
+1,0,163,January,Saturday,Interstate,Not Col. Moving,No,Not Daylight,Yes,35,43,Female
+2,0,111,January,Monday,U.S. Highway,Not Col. Moving,No,Not Daylight,Yes,70,65,Male
+1,0,31,January,Saturday,County Road,Not Col. Moving,Yes,Not Daylight,Yes,55,45,Male
+2,0,137,January,Wednesday,State Highway,Angle,No,Daylight,Yes,55,38,Male
+2,0,145,January,Tuesday,State Highway,Front-to-Front,No,Daylight,No/unknown,55,23,Female
+1,1,163,January,Friday,County Road,Not Col. Moving,Yes,Not Daylight,No/unknown,45,48,Male
+2,0,115,January,Tuesday,County Road,Angle,Yes,Not Daylight,No/unknown,55,24,Male
+2,0,91,January,Thursday,State Highway,Angle,No,Daylight,No/unknown,55,34,Male
+2,0,125,January,Monday,Interstate,Angle,No,Not Daylight,Yes,70,39,Male
+2,0,63,January,Friday,State Highway,Angle,No,Daylight,Yes,55,21,Male
+2,0,139,January,Saturday,County Road,Angle,Yes,Not Daylight,Yes,,53,Female
+1,0,163,January,Sunday,Interstate,Not Col. Moving,No,Not Daylight,No/unknown,70,25,Female
+2,0,45,January,Sunday,State Highway,Front-to-Front,No,Not Daylight,No/unknown,55,51,Male
+1,1,37,January,Tuesday,County Road,Not Col. Moving,No,Not Daylight,No/unknown,35,59,Male
+2,0,93,January,Thursday,Local Street,Front-to-Front,Yes,Not Daylight,No/unknown,35,31,Female
+2,0,151,January,Thursday,State Highway,Angle,Yes,Daylight,Yes,55,52,Male
+1,0,163,January,Monday,Interstate,Not Col. Moving,Yes,Not Daylight,Yes,55,52,Female
+1,1,163,January,Friday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,40,,Unknown
+1,1,163,January,Friday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,35,,Unknown
+1,1,163,January,Saturday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,45,47,Male
+2,0,143,February,Sunday,County Road,Not Col. Moving,No,Daylight,No/unknown,55,16,Male
+2,0,121,January,Friday,State Highway,Angle,No,Not Daylight,Yes,55,30,Male
+2,0,139,February,Monday,State Highway,Front-to-Front,No,Not Daylight,No/unknown,55,69,Female
+2,0,129,February,Wednesday,State Highway,Angle,No,Daylight,No/unknown,,29,Male
+2,0,59,February,Friday,County Road,Angle,No,Daylight,No/unknown,55,84,Female
+1,0,73,February,Sunday,U.S. Highway,Not Col. Moving,No,Daylight,Yes,70,53,Male
+2,0,17,February,Friday,Interstate,Not Col. Moving,No,Daylight,Yes,70,60,Male
+2,0,149,February,Friday,U.S. Highway,Angle,No,Not Daylight,No/unknown,,43,Female
+2,0,105,February,Wednesday,County Road,Not Col. Moving,No,Daylight,No/unknown,55,28,Female
+2,0,163,February,Saturday,Interstate,Front-to-Rear,No,Not Daylight,No/unknown,70,37,Male
+2,0,49,February,Sunday,U.S. Highway,Front-to-Front,Yes,Not Daylight,No/unknown,70,18,Male
+3,0,111,February,Monday,U.S. Highway,Front-to-Front,No,Not Daylight,No/unknown,45,86,Male
+1,0,161,February,Saturday,Local Street,Not Col. Moving,No,Daylight,Yes,35,65,Male
+2,2,81,February,Saturday,State Highway,Not Col. Moving,Yes,Not Daylight,No/unknown,55,48,Male
+2,0,155,February,Wednesday,State Highway,Angle,No,Daylight,No/unknown,,92,Male
+1,1,93,February,Saturday,County Road,Not Col. Moving,No,Not Daylight,No/unknown,55,27,Male
+2,0,15,February,Saturday,County Road,Angle,No,Daylight,No/unknown,,42,Female
+1,0,163,February,Monday,Interstate,Not Col. Moving,No,Daylight,Yes,55,40,Male
+2,0,45,February,Friday,State Highway,Angle,Yes,Daylight,No/unknown,,41,Male
+1,0,131,February,Saturday,State Highway,Not Col. Moving,Yes,Not Daylight,No/unknown,55,42,Male
+2,0,163,February,Saturday,Interstate,Front-to-Rear,Yes,Not Daylight,No/unknown,55,18,Female
+1,1,99,February,Thursday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,40,,Unknown
+1,2,25,February,Saturday,State Highway,Not Col. Moving,Yes,Not Daylight,No/unknown,50,57,Female
+3,0,23,February,Saturday,U.S. Highway,Front-to-Rear,No,Daylight,No/unknown,55,23,Male
+1,0,87,February,Friday,State Highway,Not Col. Moving,Yes,Not Daylight,No/unknown,55,24,Male
+1,1,125,February,Thursday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,45,24,Male
+2,0,133,February,Saturday,State Highway,Front-to-Front,No,Daylight,Yes,55,20,Female
+3,0,99,February,Thursday,State Highway,Front-to-Front,No,Daylight,No/unknown,55,76,Male
+2,0,163,February,Friday,Local Street,Front-to-Rear,No,Not Daylight,No/unknown,40,27,Male
+1,0,99,February,Saturday,County Road,Not Col. Moving,Yes,Not Daylight,No/unknown,55,25,Male
+2,0,57,February,Friday,State Highway,Angle,No,Not Daylight,Yes,55,32,Male
+2,0,99,February,Saturday,State Highway,Angle,Yes,Not Daylight,No/unknown,,39,Male
+1,0,125,February,Thursday,U.S. Highway,Not Col. Moving,No,Daylight,Yes,50,57,Male
+5,0,125,February,Thursday,State Highway,Front-to-Front,No,Daylight,No/unknown,50,51,Female
+1,1,163,February,Friday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,25,,Unknown
+1,1,163,February,Friday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,35,36,Male
+1,1,163,February,Thursday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,30,22,Female
+2,0,5,February,Wednesday,County Road,Angle,No,Daylight,No/unknown,35,82,Male
+2,0,139,February,Friday,County Road,Front-to-Front,No,Daylight,No/unknown,55,88,Male
+1,1,161,February,Wednesday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,70,56,Male
+2,0,5,February,Friday,U.S. Highway,Angle,No,Daylight,No/unknown,70,72,Male
+2,0,93,February,Friday,U.S. Highway,Front-to-Rear,Yes,Not Daylight,No/unknown,70,49,Male
+2,0,113,February,Sunday,County Road,Front-to-Front,No,Daylight,Yes,55,30,Male
+1,1,65,February,Thursday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,35,22,Female
+1,1,163,February,Thursday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,30,,Unknown
+2,0,81,February,Monday,County Road,Angle,No,Daylight,No/unknown,55,61,Female
+2,0,81,February,Sunday,Local Street,Angle,No,Daylight,Yes,40,23,Male
+1,0,163,February,Tuesday,Local Street,Not Col. Moving,No,Daylight,No/unknown,35,82,Female
+4,0,161,February,Thursday,State Highway,Front-to-Rear,No,Daylight,No/unknown,55,64,Male
+2,0,19,February,Thursday,U.S. Highway,Front-to-Front,No,Daylight,No/unknown,55,41,Male
+2,0,81,February,Friday,State Highway,Angle,No,Daylight,Yes,55,54,Female
+2,1,117,February,Friday,County Road,Not Col. Moving,No,Daylight,No/unknown,55,45,Male
+2,0,73,February,Thursday,State Highway,Front-to-Front,Yes,Not Daylight,No/unknown,55,26,Female
+2,1,163,February,Thursday,Interstate,Front-to-Rear,No,Not Daylight,No/unknown,55,,Unknown
+1,0,93,February,Saturday,Interstate,Not Col. Moving,Yes,Not Daylight,No/unknown,70,32,Male
+2,1,163,February,Monday,County Road,Front-to-Rear,No,Daylight,No/unknown,35,80,Male
+1,1,81,March,Monday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,35,21,Male
+2,0,21,March,Monday,Interstate,Front-to-Rear,No,Daylight,Yes,70,30,Male
+2,0,123,March,Monday,County Road,Front-to-Front,No,Daylight,No/unknown,55,48,Male
+1,0,93,March,Saturday,County Road,Not Col. Moving,Yes,Not Daylight,Yes,55,23,Male
+1,0,37,March,Saturday,Interstate,Not Col. Moving,No,Daylight,Yes,70,50,Male
+1,1,125,March,Tuesday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,45,21,Female
+2,0,161,March,Thursday,County Road,Not Col. Moving,Yes,Not Daylight,No/unknown,25,24,Male
+2,0,117,March,Sunday,State Highway,Angle,No,Daylight,No/unknown,,72,Male
+2,0,81,March,Thursday,State Highway,Front-to-Front,No,Not Daylight,Yes,40,40,Female
+2,0,49,March,Sunday,Local Street,Front-to-Rear,Yes,Not Daylight,Yes,35,30,Male
+2,0,81,March,Sunday,Local Street,Angle,No,Daylight,No/unknown,,18,Male
+2,0,117,March,Saturday,State Highway,Sideswipe,No,Daylight,No/unknown,55,24,Male
+1,0,81,March,Monday,U.S. Highway,Not Col. Moving,No,Daylight,No/unknown,70,26,Male
+2,0,21,March,Monday,U.S. Highway,Front-to-Rear,No,Daylight,No/unknown,55,20,Male
+2,0,115,March,Wednesday,State Highway,Angle,No,Daylight,No/unknown,55,17,Female
+1,2,17,March,Sunday,Local Street,Not Col. Moving,Yes,Not Daylight,No/unknown,25,21,Male
+1,0,159,March,Saturday,County Road,Not Col. Moving,No,Not Daylight,No/unknown,55,45,Male
+1,0,51,March,Saturday,County Road,Not Col. Moving,Yes,Not Daylight,No/unknown,55,20,Male
+1,0,25,March,Thursday,Interstate,Not Col. Moving,No,Daylight,No/unknown,60,53,Male
+1,0,163,March,Sunday,Interstate,Not Col. Moving,Yes,Daylight,No/unknown,70,28,Female
+2,0,81,March,Saturday,Interstate,Sideswipe,Yes,Not Daylight,Yes,70,42,Female
+2,0,165,March,Saturday,County Road,Front-to-Rear,Yes,Not Daylight,Yes,55,30,Female
+2,0,75,March,Wednesday,U.S. Highway,Not Col. Moving,No,Daylight,Yes,70,66,Male
+2,0,117,March,Tuesday,State Highway,Front-to-Front,No,Not Daylight,No/unknown,55,20,Male
+2,0,77,March,Thursday,U.S. Highway,Angle,No,Daylight,No/unknown,,40,Male
+1,1,15,March,Wednesday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,55,40,Male
+1,0,49,March,Tuesday,County Road,Not Col. Moving,No,Daylight,No/unknown,55,78,Male
+1,1,149,March,Thursday,U.S. Highway,Not Col. Moving,No,Daylight,No/unknown,55,77,Male
+2,0,117,March,Sunday,County Road,Front-to-Front,Yes,Not Daylight,Yes,55,34,Female
+2,0,93,February,Tuesday,State Highway,Front-to-Front,No,Daylight,No/unknown,55,20,Male
+1,0,23,March,Saturday,County Road,Not Col. Moving,No,Daylight,Yes,55,24,Male
+1,1,93,March,Sunday,County Road,Not Col. Moving,No,Not Daylight,No/unknown,40,33,Female
+1,0,163,March,Tuesday,Local Street,Not Col. Moving,No,Daylight,No/unknown,40,45,Female
+2,0,49,March,Friday,State Highway,Front-to-Front,No,Not Daylight,No/unknown,,30,Male
+1,0,37,March,Tuesday,Interstate,Not Col. Moving,No,Not Daylight,Yes,70,36,Male
+2,1,125,March,Saturday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,40,58,Male
+1,0,159,April,Wednesday,Interstate,Not Col. Moving,No,Daylight,Yes,70,42,Male
+1,1,99,March,Sunday,State Highway,Not Col. Moving,Yes,Not Daylight,No/unknown,50,31,Female
+1,0,157,April,Wednesday,County Road,Not Col. Moving,No,Not Daylight,No/unknown,55,26,Male
+1,0,93,April,Friday,County Road,Not Col. Moving,No,Not Daylight,Yes,55,26,Male
+2,0,81,April,Sunday,U.S. Highway,Front-to-Front,Yes,Not Daylight,No/unknown,70,33,Female
+1,0,51,April,Wednesday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,55,73,Female
+2,0,45,April,Tuesday,County Road,Angle,No,Daylight,No/unknown,,89,Female
+2,0,81,April,Friday,County Road,Angle,No,Daylight,Yes,40,20,Male
+2,0,163,April,Monday,State Highway,Front-to-Rear,Yes,Not Daylight,Yes,55,51,Male
+1,1,163,April,Monday,County Road,Not Col. Moving,No,Daylight,No/unknown,15,34,Female
+2,0,163,March,Thursday,Interstate,Front-to-Rear,No,Not Daylight,No/unknown,,47,Male
+1,2,125,March,Sunday,State Highway,Not Col. Moving,Yes,Not Daylight,No/unknown,50,22,Male
+2,0,5,April,Tuesday,U.S. Highway,Front-to-Front,Yes,Not Daylight,Yes,70,29,Male
+1,1,125,April,Wednesday,U.S. Highway,Not Col. Moving,No,Daylight,No/unknown,40,65,Female
+1,1,99,April,Saturday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,50,29,Male
+1,0,61,February,Thursday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,50,67,Male
+2,0,77,March,Tuesday,U.S. Highway,Angle,No,Not Daylight,No/unknown,45,20,Female
+2,0,65,April,Thursday,Local Street,Not Col. Moving,No,Daylight,No/unknown,30,24,Male
+1,0,21,April,Tuesday,County Road,Not Col. Moving,Yes,Not Daylight,No/unknown,55,20,Male
+2,0,49,February,Thursday,Local Street,Angle,No,Daylight,Yes,,28,Male
+1,0,163,April,Tuesday,Interstate,Not Col. Moving,No,Not Daylight,No/unknown,55,66,Male
+2,0,79,April,Thursday,County Road,Front-to-Front,No,Daylight,No/unknown,55,24,Female
+1,1,73,March,Saturday,County Road,Not Col. Moving,Yes,Not Daylight,No/unknown,45,22,Male
+1,0,127,April,Saturday,County Road,Not Col. Moving,Yes,Not Daylight,Yes,55,23,Male
+3,0,81,April,Friday,State Highway,Front-to-Rear,No,Not Daylight,No/unknown,55,59,Male
+2,0,77,April,Thursday,County Road,Angle,No,Daylight,No/unknown,55,51,Female
+2,0,125,April,Sunday,County Road,Angle,Yes,Not Daylight,No/unknown,45,43,Male
+1,0,81,April,Thursday,Local Street,Not Col. Moving,Yes,Not Daylight,No/unknown,45,40,Male
+2,3,163,April,Monday,State Highway,Front-to-Front,No,Daylight,No/unknown,40,59,Male
+1,1,161,April,Wednesday,U.S. Highway,Not Col. Moving,No,Daylight,No/unknown,70,56,Male
+2,0,125,April,Friday,State Highway,Sideswipe,No,Not Daylight,Yes,70,25,Female
+2,0,81,April,Sunday,State Highway,Angle,No,Daylight,No/unknown,,21,Female
+1,0,163,April,Monday,Local Street,Not Col. Moving,No,Not Daylight,Yes,35,37,Female
+2,0,119,April,Saturday,County Road,Angle,Yes,Not Daylight,No/unknown,,68,Male
+1,0,159,April,Wednesday,County Road,Not Col. Moving,Yes,Not Daylight,Yes,55,26,Male
+2,0,163,April,Sunday,Local Street,Front-to-Front,Yes,Daylight,No/unknown,30,25,Male
+1,0,17,April,Friday,Interstate,Not Col. Moving,No,Daylight,Yes,,31,Male
+1,0,121,April,Saturday,County Road,Not Col. Moving,Yes,Not Daylight,No/unknown,45,28,Male
+1,1,23,April,Sunday,County Road,Not Col. Moving,No,Not Daylight,No/unknown,55,,Unknown
+2,0,163,April,Sunday,Local Street,Not Col. Moving,No,Not Daylight,Yes,,17,Male
+1,0,17,April,Monday,County Road,Not Col. Moving,No,Daylight,No/unknown,55,37,Male
+1,0,93,April,Sunday,County Road,Not Col. Moving,Yes,Not Daylight,No/unknown,55,22,Male
+1,0,55,April,Saturday,County Road,Not Col. Moving,No,Daylight,No/unknown,55,61,Male
+2,0,115,April,Friday,County Road,Front-to-Front,Yes,Not Daylight,No/unknown,55,18,Male
+2,1,17,April,Saturday,Interstate,Not Col. Moving,No,Not Daylight,No/unknown,70,41,Female
+2,0,75,April,Sunday,State Highway,Front-to-Front,No,Daylight,No/unknown,55,46,Female
+1,0,25,April,Saturday,State Highway,Not Col. Moving,No,Not Daylight,Yes,30,33,Male
+2,0,81,April,Thursday,Local Street,Angle,No,Daylight,No/unknown,,22,Female
+1,0,159,April,Saturday,County Road,Not Col. Moving,Yes,Not Daylight,Yes,55,47,Male
+2,0,147,April,Friday,County Road,Front-to-Front,No,Not Daylight,No/unknown,55,24,Female
+1,1,161,April,Sunday,County Road,Not Col. Moving,No,Daylight,No/unknown,0,34,Female
+1,1,149,April,Wednesday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,25,27,Male
+1,1,163,April,Monday,Local Street,Not Col. Moving,No,Daylight,No/unknown,45,53,Male
+1,0,163,April,Wednesday,Interstate,Not Col. Moving,Yes,Not Daylight,Yes,55,21,Female
+1,0,161,April,Wednesday,County Road,Not Col. Moving,No,Daylight,Yes,55,21,Male
+2,0,115,April,Friday,County Road,Angle,No,Daylight,No/unknown,,20,Male
+2,0,125,April,Tuesday,State Highway,Front-to-Front,No,Daylight,No/unknown,50,80,Female
+1,0,125,April,Monday,Local Street,Not Col. Moving,No,Not Daylight,Yes,15,50,Male
+2,0,149,April,Thursday,Local Street,Angle,No,Daylight,No/unknown,45,61,Male
+2,0,81,April,Saturday,County Road,Angle,Yes,Not Daylight,No/unknown,,45,Female
+2,0,15,April,Tuesday,State Highway,Angle,No,Daylight,No/unknown,55,83,Female
+4,0,115,April,Wednesday,Interstate,Sideswipe,No,Daylight,No/unknown,70,43,Male
+1,1,163,April,Monday,U.S. Highway,Not Col. Moving,No,Not Daylight,No/unknown,45,60,Male
+2,0,7,April,Monday,U.S. Highway,Angle,No,Daylight,No/unknown,40,81,Male
+3,0,99,April,Thursday,Local Street,Not Col. Moving,No,Daylight,No/unknown,45,20,Male
+1,1,163,March,Monday,Local Street,Not Col. Moving,No,Daylight,No/unknown,30,,Unknown
+1,0,163,March,Monday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,30,16,Male
+1,0,163,March,Sunday,State Highway,Not Col. Moving,Yes,Not Daylight,Yes,40,39,Male
+2,0,163,March,Friday,Local Street,Sideswipe,No,Daylight,No/unknown,35,66,Male
+1,2,163,March,Friday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,30,34,Male
+3,0,75,April,Wednesday,State Highway,Front-to-Rear,Yes,Not Daylight,Yes,55,42,Female
+1,0,163,April,Saturday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,25,33,Male
+1,0,107,May,Sunday,State Highway,Not Col. Moving,Yes,Not Daylight,Yes,55,22,Male
+2,0,91,May,Sunday,U.S. Highway,Angle,No,Daylight,No/unknown,,72,Female
+2,0,125,May,Tuesday,Interstate,Other,No,Daylight,No/unknown,70,57,Male
+2,0,21,May,Friday,County Road,Not Col. Moving,Yes,Not Daylight,Yes,55,33,Male
+3,0,163,April,Tuesday,Local Street,Angle,Yes,Daylight,No/unknown,,21,Male
+1,0,161,May,Sunday,County Road,Not Col. Moving,No,Daylight,Yes,55,62,Male
+2,0,121,May,Thursday,County Road,Angle,No,Daylight,No/unknown,55,27,Male
+2,0,27,May,Thursday,County Road,Angle,No,Daylight,No/unknown,,53,Male
+2,0,107,May,Saturday,State Highway,Angle,No,Daylight,No/unknown,55,18,Male
+2,0,81,May,Sunday,County Road,Not Col. Moving,No,Daylight,No/unknown,55,42,Male
+2,0,147,May,Tuesday,State Highway,Front-to-Front,No,Daylight,No/unknown,45,19,Male
+2,0,161,May,Sunday,County Road,Front-to-Front,Yes,Daylight,No/unknown,55,36,Male
+1,0,15,May,Wednesday,State Highway,Not Col. Moving,No,Daylight,Yes,55,41,Male
+1,0,45,May,Tuesday,County Road,Not Col. Moving,Yes,Not Daylight,Yes,55,19,Male
+1,0,129,May,Sunday,County Road,Not Col. Moving,No,Daylight,Yes,55,60,Female
+1,0,81,May,Tuesday,Local Street,Not Col. Moving,No,Daylight,No/unknown,45,51,Male
+2,0,125,May,Saturday,County Road,Angle,No,Daylight,No/unknown,45,76,Female
+2,0,81,May,Saturday,County Road,Front-to-Front,No,Daylight,No/unknown,55,18,Male
+1,0,149,May,Sunday,County Road,Not Col. Moving,No,Daylight,No/unknown,55,39,Male
+2,0,99,May,Friday,State Highway,Angle,No,Daylight,No/unknown,45,65,Female
+1,0,81,May,Wednesday,County Road,Not Col. Moving,No,Not Daylight,No/unknown,55,60,Male
+2,0,155,May,Sunday,County Road,Sideswipe,No,Daylight,No/unknown,55,91,Male
+1,0,125,May,Sunday,Local Street,Not Col. Moving,No,Daylight,No/unknown,25,37,Female
+2,0,63,May,Friday,County Road,Angle,Yes,Daylight,No/unknown,55,29,Female
+2,0,147,May,Saturday,State Highway,Front-to-Front,Yes,Daylight,No/unknown,55,71,Female
+2,0,21,May,Saturday,County Road,Angle,No,Daylight,No/unknown,,55,Male
+2,0,75,May,Monday,County Road,Angle,Yes,Daylight,No/unknown,,24,Male
+1,1,147,May,Monday,County Road,Not Col. Moving,No,Daylight,No/unknown,45,32,Male
+2,0,15,May,Monday,County Road,Front-to-Front,No,Daylight,No/unknown,55,37,Female
+1,0,31,May,Monday,County Road,Not Col. Moving,Yes,Daylight,Yes,55,49,Female
+1,0,161,May,Friday,Interstate,Not Col. Moving,No,Daylight,No/unknown,70,43,Male
+2,0,143,May,Saturday,County Road,Front-to-Front,No,Daylight,No/unknown,55,70,Male
+2,0,85,May,Saturday,County Road,Not Col. Moving,No,Daylight,No/unknown,55,52,Male
+1,0,159,May,Saturday,Local Street,Not Col. Moving,Yes,Not Daylight,Yes,55,22,Male
+2,0,163,May,Wednesday,Local Street,Angle,No,Daylight,Yes,,20,Male
+2,0,163,May,Saturday,Local Street,Angle,No,Not Daylight,No/unknown,,19,Male
+1,1,125,May,Sunday,Interstate,Not Col. Moving,Yes,Not Daylight,No/unknown,70,30,Male
+1,0,25,May,Tuesday,Interstate,Not Col. Moving,No,Daylight,No/unknown,70,49,Male
+1,0,21,May,Monday,County Road,Not Col. Moving,No,Daylight,No/unknown,55,53,Male
+1,0,161,May,Sunday,County Road,Not Col. Moving,No,Not Daylight,No/unknown,55,71,Male
+1,1,99,May,Thursday,State Highway,Not Col. Moving,Yes,Not Daylight,No/unknown,50,30,Male
+1,0,107,May,Wednesday,County Road,Not Col. Moving,Yes,Daylight,No/unknown,55,53,Female
+1,1,161,May,Monday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,70,,Unknown
+1,0,81,May,Wednesday,County Road,Not Col. Moving,No,Daylight,No/unknown,55,28,Male
+1,1,163,May,Tuesday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,30,,Unknown
+1,1,69,May,Friday,County Road,Not Col. Moving,No,Daylight,No/unknown,55,79,Female
+1,1,163,May,Saturday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,35,20,Male
+2,0,159,May,Wednesday,County Road,Sideswipe,Yes,Not Daylight,No/unknown,55,21,Male
+1,1,163,May,Tuesday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,,,Unknown
+2,0,163,May,Saturday,Local Street,Angle,Yes,Not Daylight,No/unknown,35,36,Male
+1,1,163,May,Monday,Local Street,Not Col. Moving,No,Daylight,No/unknown,25,23,Male
+1,1,163,May,Tuesday,Local Street,Not Col. Moving,No,Not Daylight,Yes,25,28,Male
+1,0,143,May,Wednesday,County Road,Not Col. Moving,No,Daylight,Yes,55,22,Male
+2,0,59,May,Friday,County Road,Angle,No,Daylight,No/unknown,,81,Female
+1,0,93,May,Saturday,County Road,Not Col. Moving,Yes,Daylight,No/unknown,55,68,Male
+1,0,163,May,Monday,Local Street,Not Col. Moving,Yes,Daylight,Yes,25,41,Male
+1,1,163,May,Saturday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,35,,Unknown
+1,0,75,May,Friday,State Highway,Not Col. Moving,Yes,Not Daylight,Yes,55,36,Male
+1,0,37,April,Monday,U.S. Highway,Not Col. Moving,No,Daylight,No/unknown,70,55,Male
+1,1,163,May,Monday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,45,,Unknown
+2,0,151,May,Monday,County Road,Front-to-Front,Yes,Daylight,No/unknown,55,33,Male
+1,0,59,May,Saturday,County Road,Not Col. Moving,Yes,Not Daylight,Yes,55,21,Male
+1,0,161,April,Wednesday,County Road,Not Col. Moving,No,Daylight,Yes,45,56,Female
+1,0,149,May,Monday,County Road,Not Col. Moving,Yes,Not Daylight,No/unknown,55,56,Male
+1,1,143,May,Sunday,County Road,Not Col. Moving,No,Not Daylight,No/unknown,45,37,Female
+2,0,115,May,Saturday,County Road,Front-to-Front,Yes,Daylight,No/unknown,45,21,Male
+2,0,147,June,Sunday,State Highway,Angle,No,Daylight,No/unknown,,64,Female
+2,0,133,May,Friday,U.S. Highway,Angle,No,Daylight,No/unknown,55,79,Male
+1,1,147,June,Tuesday,County Road,Not Col. Moving,Yes,Not Daylight,No/unknown,45,37,Male
+1,0,23,June,Sunday,County Road,Not Col. Moving,No,Daylight,No/unknown,55,83,Male
+1,0,81,June,Sunday,County Road,Not Col. Moving,Yes,Not Daylight,No/unknown,55,40,Male
+2,0,125,June,Tuesday,Local Street,Angle,No,Daylight,No/unknown,40,44,Female
+2,0,99,May,Saturday,State Highway,Angle,No,Daylight,Yes,,33,Male
+1,1,75,June,Friday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,50,18,Male
+1,0,157,June,Sunday,County Road,Not Col. Moving,Yes,Not Daylight,Yes,55,50,Male
+1,0,17,June,Sunday,County Road,Not Col. Moving,Yes,Not Daylight,Yes,55,17,Male
+2,0,25,June,Tuesday,County Road,Not Col. Moving,No,Daylight,Yes,,21,Male
+2,0,45,June,Saturday,County Road,Angle,No,Daylight,No/unknown,55,33,Male
+2,0,53,June,Tuesday,U.S. Highway,Front-to-Rear,No,Daylight,No/unknown,55,38,Male
+2,0,139,June,Wednesday,County Road,Front-to-Front,No,Not Daylight,No/unknown,55,17,Male
+1,0,39,June,Sunday,County Road,Not Col. Moving,No,Daylight,Yes,55,57,Female
+2,0,93,June,Friday,County Road,Angle,No,Daylight,No/unknown,55,18,Male
+1,0,163,June,Monday,Local Street,Not Col. Moving,No,Daylight,Yes,25,42,Female
+1,0,81,June,Saturday,Local Street,Not Col. Moving,No,Not Daylight,Yes,25,79,Female
+2,0,161,June,Saturday,State Highway,Angle,No,Daylight,No/unknown,45,70,Male
+2,0,163,June,Sunday,County Road,Front-to-Front,No,Not Daylight,No/unknown,45,30,Male
+2,0,75,June,Saturday,State Highway,Angle,No,Not Daylight,No/unknown,,40,Male
+1,0,163,June,Wednesday,County Road,Not Col. Moving,No,Daylight,Yes,25,22,Male
+3,0,75,June,Monday,County Road,Front-to-Rear,No,Daylight,No/unknown,,21,Male
+1,0,29,June,Friday,County Road,Not Col. Moving,Yes,Not Daylight,Yes,55,53,Male
+1,0,65,June,Tuesday,U.S. Highway,Not Col. Moving,No,Daylight,No/unknown,70,63,Male
+1,0,157,June,Friday,County Road,Not Col. Moving,Yes,Not Daylight,No/unknown,55,25,Male
+2,0,139,June,Saturday,Interstate,Front-to-Front,Yes,Not Daylight,No/unknown,70,38,Male
+1,0,57,June,Monday,U.S. Highway,Not Col. Moving,No,Not Daylight,Yes,,65,Male
+1,0,163,June,Sunday,County Road,Not Col. Moving,Yes,Daylight,No/unknown,45,25,Male
+3,0,49,June,Thursday,Local Street,Angle,No,Daylight,Yes,,21,Male
+1,0,125,June,Tuesday,State Highway,Not Col. Moving,Yes,Not Daylight,Yes,40,21,Male
+1,1,75,June,Sunday,Local Street,Not Col. Moving,No,Daylight,No/unknown,30,88,Male
+2,0,115,June,Monday,County Road,Angle,No,Daylight,No/unknown,,49,Male
+2,0,133,June,Friday,County Road,Angle,Yes,Daylight,Yes,,28,Male
+1,1,25,June,Saturday,Interstate,Not Col. Moving,No,Not Daylight,No/unknown,55,,Unknown
+1,0,147,June,Tuesday,Interstate,Not Col. Moving,No,Not Daylight,Yes,70,36,Male
+6,0,77,April,Tuesday,U.S. Highway,Front-to-Rear,No,Not Daylight,Yes,45,32,Male
+2,0,163,June,Tuesday,Local Street,Angle,Yes,Not Daylight,Yes,30,23,Male
+2,0,145,June,Wednesday,State Highway,Angle,No,Daylight,Yes,45,18,Male
+4,0,99,May,Thursday,Local Street,Front-to-Rear,No,Daylight,No/unknown,40,63,Female
+1,0,49,June,Saturday,Interstate,Not Col. Moving,No,Daylight,Yes,70,20,Male
+1,0,57,June,Sunday,County Road,Not Col. Moving,No,Daylight,Yes,55,14,Male
+2,0,49,June,Sunday,State Highway,Angle,No,Not Daylight,No/unknown,,32,Male
+1,1,163,June,Sunday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,40,,Unknown
+2,0,17,June,Tuesday,County Road,Angle,No,Daylight,No/unknown,,57,Male
+1,1,163,June,Saturday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,30,,Unknown
+2,0,45,June,Thursday,State Highway,Front-to-Front,No,Daylight,No/unknown,55,78,Male
+1,0,145,June,Saturday,State Highway,Not Col. Moving,Yes,Not Daylight,No/unknown,45,40,Male
+1,0,145,June,Saturday,State Highway,Not Col. Moving,Yes,Not Daylight,Yes,35,37,Male
+1,0,25,June,Friday,Interstate,Not Col. Moving,No,Not Daylight,No/unknown,70,25,Male
+2,0,91,June,Wednesday,County Road,Front-to-Front,No,Daylight,No/unknown,55,54,Male
+2,0,41,June,Sunday,State Highway,Other,No,Daylight,No/unknown,,15,Male
+1,0,163,April,Sunday,County Road,Not Col. Moving,Yes,Not Daylight,No/unknown,55,18,Male
+2,0,25,June,Saturday,State Highway,Angle,No,Daylight,Yes,,28,Male
+3,0,91,June,Friday,U.S. Highway,Front-to-Rear,No,Daylight,No/unknown,55,60,Male
+1,1,49,May,Saturday,County Road,Not Col. Moving,No,Not Daylight,No/unknown,55,46,Male
+2,0,125,June,Saturday,Local Street,Front-to-Front,Yes,Not Daylight,No/unknown,45,55,Male
+2,0,125,June,Thursday,Local Street,Angle,Yes,Daylight,No/unknown,45,26,Female
+1,1,55,June,Saturday,U.S. Highway,Not Col. Moving,No,Not Daylight,No/unknown,55,60,Male
+2,0,15,June,Monday,County Road,Front-to-Rear,Yes,Not Daylight,No/unknown,55,53,Male
+2,0,99,June,Sunday,County Road,Front-to-Front,Yes,Not Daylight,No/unknown,50,21,Male
+1,0,99,June,Saturday,Local Street,Not Col. Moving,Yes,Not Daylight,No/unknown,25,23,Male
+2,0,155,June,Wednesday,State Highway,Front-to-Front,Yes,Not Daylight,No/unknown,55,24,Male
+2,0,65,June,Saturday,Local Street,Angle,No,Daylight,No/unknown,,33,Male
+1,0,125,June,Monday,U.S. Highway,Not Col. Moving,No,Daylight,No/unknown,50,70,Male
+1,1,125,June,Thursday,County Road,Not Col. Moving,No,Daylight,No/unknown,25,58,Male
+1,0,115,June,Saturday,County Road,Not Col. Moving,Yes,Not Daylight,Yes,55,18,Male
+1,0,163,June,Tuesday,Local Street,Not Col. Moving,Yes,Daylight,Yes,25,35,Female
+2,0,125,June,Wednesday,Interstate,Front-to-Rear,No,Daylight,No/unknown,70,42,Male
+2,0,5,June,Wednesday,County Road,Front-to-Front,Yes,Not Daylight,No/unknown,55,59,Male
+2,0,151,April,Friday,State Highway,Front-to-Rear,Yes,Not Daylight,No/unknown,55,37,Male
+1,0,81,May,Wednesday,Local Street,Not Col. Moving,Yes,Not Daylight,Yes,25,27,Male
+2,0,125,June,Tuesday,U.S. Highway,Front-to-Rear,No,Daylight,No/unknown,50,56,Male
+2,0,103,June,Thursday,U.S. Highway,Angle,No,Daylight,No/unknown,55,64,Male
+2,0,125,June,Thursday,County Road,Front-to-Front,No,Daylight,No/unknown,50,57,Female
+1,0,107,July,Tuesday,County Road,Not Col. Moving,No,Daylight,No/unknown,55,54,Male
+1,1,81,July,Wednesday,Local Street,Not Col. Moving,No,Daylight,No/unknown,45,43,Male
+2,0,125,July,Tuesday,County Road,Front-to-Front,No,Daylight,No/unknown,50,76,Female
+2,0,147,July,Saturday,County Road,Front-to-Front,No,Daylight,No/unknown,40,31,Male
+2,0,115,June,Friday,U.S. Highway,Front-to-Front,No,Daylight,No/unknown,55,31,Male
+1,1,99,June,Saturday,Local Street,Not Col. Moving,No,Daylight,No/unknown,25,49,Female
+2,0,139,July,Sunday,Interstate,Front-to-Rear,No,Daylight,No/unknown,60,50,Male
+2,0,41,July,Monday,U.S. Highway,Front-to-Front,No,Daylight,No/unknown,55,83,Male
+1,0,47,June,Monday,Interstate,Not Col. Moving,No,Not Daylight,Yes,70,64,Male
+2,0,81,July,Tuesday,County Road,Angle,No,Daylight,No/unknown,40,90,Male
+1,0,49,June,Tuesday,County Road,Not Col. Moving,Yes,Not Daylight,Yes,45,44,Female
+1,0,125,June,Thursday,County Road,Not Col. Moving,Yes,Not Daylight,No/unknown,40,23,Male
+1,1,125,June,Saturday,Interstate,Not Col. Moving,No,Not Daylight,No/unknown,70,67,Male
+1,1,163,June,Monday,Local Street,Not Col. Moving,No,Daylight,No/unknown,35,58,Male
+2,0,59,June,Sunday,U.S. Highway,Front-to-Front,Yes,Daylight,No/unknown,55,66,Male
+2,0,49,July,Thursday,Local Street,Angle,No,Daylight,No/unknown,,26,Male
+1,0,121,July,Sunday,County Road,Not Col. Moving,Yes,Daylight,No/unknown,55,58,Male
+1,1,49,July,Monday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,35,22,Female
+2,0,15,July,Thursday,State Highway,Angle,No,Daylight,No/unknown,,90,Male
+1,0,11,June,Wednesday,County Road,Not Col. Moving,No,Not Daylight,No/unknown,55,51,Male
+2,0,125,June,Friday,Interstate,Not Col. Moving,No,Not Daylight,No/unknown,70,34,Male
+2,0,19,July,Friday,U.S. Highway,Front-to-Front,No,Daylight,No/unknown,55,29,Male
+1,0,99,June,Sunday,Interstate,Not Col. Moving,No,Not Daylight,No/unknown,70,22,Male
+1,0,157,July,Saturday,County Road,Not Col. Moving,Yes,Daylight,Yes,55,48,Male
+2,0,49,July,Sunday,Local Street,Front-to-Rear,No,Daylight,No/unknown,45,26,Male
+1,0,163,June,Tuesday,Local Street,Not Col. Moving,No,Daylight,No/unknown,30,49,Male
+1,0,115,July,Tuesday,County Road,Not Col. Moving,Yes,Daylight,No/unknown,45,67,Male
+1,1,31,July,Thursday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,55,22,Male
+4,0,163,July,Saturday,Local Street,Angle,Yes,Not Daylight,No/unknown,,25,Male
+2,0,81,July,Friday,County Road,Angle,Yes,Daylight,Yes,55,82,Male
+2,0,161,July,Thursday,U.S. Highway,Angle,Yes,Daylight,Yes,70,19,Male
+1,0,115,July,Monday,Interstate,Not Col. Moving,No,Not Daylight,No/unknown,70,49,Male
+2,0,165,July,Tuesday,State Highway,Angle,No,Not Daylight,No/unknown,55,35,Male
+2,1,125,July,Saturday,Interstate,Not Col. Moving,No,Not Daylight,No/unknown,70,50,Male
+1,0,123,July,Monday,County Road,Not Col. Moving,No,Not Daylight,No/unknown,55,52,Male
+1,1,165,July,Monday,Local Street,Not Col. Moving,No,Daylight,No/unknown,45,36,Female
+1,1,125,July,Monday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,45,18,Male
+2,0,81,July,Friday,Local Street,Angle,No,Not Daylight,No/unknown,,27,Male
+2,0,27,July,Monday,U.S. Highway,Front-to-Front,No,Daylight,No/unknown,55,73,Male
+2,0,147,July,Thursday,State Highway,Angle,No,Daylight,No/unknown,,15,Male
+1,0,163,July,Saturday,Local Street,Not Col. Moving,Yes,Not Daylight,Yes,25,26,Male
+1,1,81,July,Wednesday,County Road,Not Col. Moving,Yes,Daylight,No/unknown,55,61,Male
+2,0,139,July,Thursday,Interstate,Front-to-Front,Yes,Daylight,No/unknown,70,32,Female
+1,0,49,July,Saturday,Interstate,Not Col. Moving,No,Not Daylight,Yes,35,32,Male
+1,0,147,July,Sunday,County Road,Not Col. Moving,No,Daylight,Yes,55,31,Female
+2,0,5,July,Saturday,County Road,Angle,No,Daylight,No/unknown,55,22,Male
+2,0,59,July,Tuesday,U.S. Highway,Angle,No,Daylight,Yes,40,19,Male
+1,1,163,July,Monday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,35,,Unknown
+1,1,163,July,Tuesday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,30,58,Female
+2,0,163,July,Tuesday,Local Street,Angle,No,Daylight,Yes,30,35,Male
+1,0,115,July,Thursday,County Road,Not Col. Moving,No,Daylight,No/unknown,55,50,Female
+3,0,111,July,Friday,State Highway,Front-to-Rear,No,Daylight,No/unknown,55,39,Female
+1,1,163,July,Sunday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,35,44,Male
+1,1,163,July,Thursday,Local Street,Not Col. Moving,No,Daylight,Yes,25,,Unknown
+2,0,21,July,Friday,U.S. Highway,Front-to-Front,No,Not Daylight,No/unknown,55,28,Male
+1,0,121,July,Thursday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,45,62,Male
+1,0,27,July,Thursday,State Highway,Not Col. Moving,No,Daylight,Yes,55,71,Male
+2,0,157,July,Thursday,County Road,Angle,No,Not Daylight,No/unknown,,18,Male
+1,1,99,January,Monday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,70,,Unknown
+1,0,115,July,Wednesday,County Road,Not Col. Moving,Yes,Not Daylight,No/unknown,55,17,Male
+2,0,81,July,Wednesday,State Highway,Front-to-Front,Yes,Not Daylight,Yes,55,21,Male
+4,0,161,July,Thursday,U.S. Highway,Front-to-Rear,No,Daylight,No/unknown,55,28,Male
+1,0,163,July,Thursday,Local Street,Not Col. Moving,No,Not Daylight,Yes,,18,Male
+1,0,163,July,Friday,Local Street,Not Col. Moving,Yes,Not Daylight,Yes,35,25,Male
+2,0,73,July,Thursday,County Road,Angle,No,Daylight,No/unknown,,73,Male
+2,0,81,July,Thursday,Local Street,Not Col. Moving,No,Daylight,Yes,40,32,Male
+2,0,27,July,Saturday,State Highway,Angle,No,Not Daylight,Yes,55,19,Male
+2,0,147,July,Saturday,County Road,Angle,Yes,Not Daylight,No/unknown,,36,Male
+2,0,123,July,Saturday,County Road,Front-to-Front,No,Not Daylight,No/unknown,55,41,Male
+2,0,147,July,Sunday,County Road,Front-to-Front,Yes,Not Daylight,Yes,,23,Male
+1,0,161,July,Sunday,Local Street,Not Col. Moving,Yes,Not Daylight,Yes,55,26,Male
+2,0,99,July,Saturday,Local Street,Angle,Yes,Not Daylight,No/unknown,,16,Female
+2,0,125,July,Tuesday,Local Street,Angle,No,Not Daylight,No/unknown,,48,Male
+2,0,147,July,Sunday,Interstate,Front-to-Rear,Yes,Not Daylight,No/unknown,70,28,Male
+1,0,91,July,Tuesday,U.S. Highway,Not Col. Moving,No,Not Daylight,Yes,55,39,Male
+2,0,105,July,Thursday,State Highway,Angle,No,Daylight,No/unknown,55,19,Female
+1,0,139,July,Saturday,County Road,Not Col. Moving,Yes,Not Daylight,No/unknown,45,21,Male
+1,1,149,July,Sunday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,55,57,Female
+2,0,163,July,Monday,Local Street,Angle,No,Not Daylight,No/unknown,,22,Male
+1,0,65,July,Tuesday,County Road,Not Col. Moving,No,Not Daylight,Yes,45,18,Male
+1,0,23,July,Wednesday,County Road,Not Col. Moving,No,Daylight,No/unknown,40,70,Female
+1,0,115,July,Sunday,County Road,Not Col. Moving,Yes,Not Daylight,No/unknown,45,21,Male
+2,0,147,July,Thursday,County Road,Angle,No,Daylight,Yes,45,26,Male
+1,1,163,July,Friday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,35,19,Female
+1,0,115,July,Friday,County Road,Not Col. Moving,Yes,Not Daylight,Yes,55,29,Male
+1,1,9,July,Friday,U.S. Highway,Not Col. Moving,No,Daylight,No/unknown,55,72,Male
+1,1,49,July,Wednesday,County Road,Not Col. Moving,No,Daylight,No/unknown,55,29,Female
+2,0,99,July,Sunday,Unknown,Angle,No,Not Daylight,No/unknown,,24,Male
+1,0,27,July,Friday,County Road,Not Col. Moving,No,Not Daylight,No/unknown,55,45,Male
+1,0,99,July,Wednesday,County Road,Not Col. Moving,No,Daylight,No/unknown,55,50,Male
+1,0,163,July,Sunday,County Road,Not Col. Moving,No,Not Daylight,Yes,55,22,Male
+3,0,81,July,Saturday,County Road,Angle,No,Daylight,No/unknown,55,60,Male
+1,0,71,May,Saturday,County Road,Not Col. Moving,Yes,Not Daylight,Yes,55,22,Female
+3,0,121,June,Saturday,County Road,Angle,No,Daylight,No/unknown,,17,Male
+1,0,163,June,Sunday,Local Street,Not Col. Moving,Yes,Not Daylight,No/unknown,35,28,Male
+1,1,139,July,Friday,County Road,Not Col. Moving,No,Not Daylight,No/unknown,55,,Unknown
+1,0,163,July,Friday,Local Street,Not Col. Moving,No,Daylight,No/unknown,25,20,Male
+2,0,157,August,Friday,State Highway,Angle,No,Daylight,No/unknown,55,63,Female
+3,0,45,August,Sunday,State Highway,Front-to-Front,Yes,Daylight,No/unknown,55,23,Female
+1,0,123,June,Sunday,County Road,Not Col. Moving,Yes,Daylight,No/unknown,55,48,Male
+2,0,139,August,Sunday,Local Street,Front-to-Front,Yes,Not Daylight,No/unknown,35,30,Male
+1,0,93,August,Monday,County Road,Not Col. Moving,Yes,Not Daylight,Yes,35,26,Male
+1,1,161,June,Thursday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,25,69,Male
+2,0,163,August,Monday,Local Street,Angle,No,Daylight,Yes,30,25,Male
+2,0,65,August,Saturday,County Road,Angle,No,Daylight,No/unknown,,38,Male
+2,0,5,June,Saturday,County Road,Angle,Yes,Not Daylight,Yes,,19,Male
+2,0,49,August,Thursday,County Road,Front-to-Front,No,Daylight,No/unknown,45,21,Male
+1,1,145,August,Friday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,55,17,Male
+2,0,73,July,Tuesday,County Road,Front-to-Front,Yes,Daylight,No/unknown,,23,Female
+1,0,117,August,Monday,County Road,Not Col. Moving,No,Not Daylight,No/unknown,55,19,Male
+2,0,81,August,Tuesday,State Highway,Angle,No,Not Daylight,No/unknown,55,28,Male
+1,0,57,August,Sunday,State Highway,Not Col. Moving,Yes,Not Daylight,No/unknown,55,51,Male
+1,2,139,August,Saturday,County Road,Not Col. Moving,No,Not Daylight,No/unknown,55,22,Male
+2,0,125,July,Sunday,Local Street,Sideswipe,Yes,Daylight,Yes,25,44,Male
+2,0,63,August,Monday,County Road,Angle,No,Daylight,No/unknown,,31,Male
+2,0,163,August,Tuesday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,25,24,Male
+2,0,139,August,Wednesday,Local Street,Angle,No,Daylight,Yes,,61,Male
+1,1,25,August,Saturday,County Road,Not Col. Moving,No,Daylight,No/unknown,55,84,Male
+1,0,9,August,Saturday,State Highway,Not Col. Moving,Yes,Daylight,Yes,55,24,Male
+1,0,93,August,Saturday,County Road,Not Col. Moving,Yes,Daylight,No/unknown,55,24,Male
+2,0,65,August,Saturday,County Road,Angle,No,Daylight,No/unknown,45,25,Female
+2,0,87,August,Saturday,County Road,Angle,No,Daylight,No/unknown,,80,Female
+2,0,157,August,Monday,County Road,Angle,Yes,Not Daylight,No/unknown,,17,Male
+1,1,99,August,Sunday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,50,19,Female
+2,0,125,August,Wednesday,Local Street,Angle,Yes,Daylight,No/unknown,35,62,Male
+1,1,163,August,Sunday,Local Street,Not Col. Moving,No,Daylight,No/unknown,25,,Unknown
+1,0,163,August,Thursday,Interstate,Not Col. Moving,No,Not Daylight,Yes,70,,Male
+1,0,161,August,Saturday,County Road,Not Col. Moving,No,Not Daylight,Yes,40,27,Male
+2,0,81,August,Tuesday,State Highway,Angle,No,Daylight,No/unknown,,83,Female
+1,0,103,August,Saturday,County Road,Not Col. Moving,Yes,Not Daylight,Yes,30,42,Male
+2,0,115,August,Wednesday,Interstate,Front-to-Front,No,Not Daylight,Yes,70,29,Male
+2,0,151,August,Thursday,Local Street,Front-to-Front,No,Daylight,No/unknown,35,78,Female
+1,1,73,August,Sunday,Local Street,Not Col. Moving,No,Daylight,No/unknown,35,86,Male
+1,0,151,August,Sunday,State Highway,Not Col. Moving,Yes,Not Daylight,Yes,55,35,Male
+1,1,163,August,Wednesday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,30,31,Male
+2,0,15,August,Thursday,State Highway,Front-to-Front,No,Daylight,No/unknown,55,49,Female
+1,0,111,August,Sunday,County Road,Not Col. Moving,Yes,Not Daylight,No/unknown,55,25,Male
+2,0,49,August,Thursday,Local Street,Front-to-Front,No,Not Daylight,Yes,25,25,Female
+2,0,149,August,Wednesday,State Highway,Front-to-Front,No,Daylight,No/unknown,55,51,Male
+2,0,87,August,Sunday,Local Street,Angle,No,Daylight,No/unknown,35,80,Female
+1,0,163,August,Friday,Interstate,Not Col. Moving,Yes,Not Daylight,Yes,70,24,Male
+1,0,145,August,Saturday,County Road,Not Col. Moving,Yes,Not Daylight,No/unknown,55,53,Male
+1,0,95,August,Saturday,County Road,Not Col. Moving,No,Not Daylight,No/unknown,55,57,Male
+2,0,139,August,Monday,County Road,Angle,No,Not Daylight,Yes,45,24,Male
+1,1,55,August,Monday,County Road,Not Col. Moving,No,Not Daylight,No/unknown,35,17,Male
+3,0,163,August,Sunday,State Highway,Angle,No,Not Daylight,Yes,,47,Female
+2,0,115,August,Monday,U.S. Highway,Angle,No,Daylight,No/unknown,,22,Female
+1,0,163,August,Friday,State Highway,Not Col. Moving,No,Daylight,Yes,55,21,Male
+1,0,81,August,Thursday,Local Street,Not Col. Moving,Yes,Not Daylight,No/unknown,25,56,Male
+1,1,163,August,Sunday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,25,,Unknown
+1,1,125,August,Tuesday,Local Street,Not Col. Moving,No,Daylight,No/unknown,35,20,Female
+2,0,99,August,Thursday,State Highway,Angle,No,Daylight,No/unknown,,36,Female
+1,0,67,August,Monday,County Road,Not Col. Moving,Yes,Not Daylight,No/unknown,55,62,Male
+2,0,103,August,Friday,U.S. Highway,Angle,No,Daylight,No/unknown,55,19,Female
+2,0,161,June,Friday,County Road,Front-to-Rear,Yes,Not Daylight,No/unknown,55,35,Male
+2,0,89,August,Saturday,County Road,Angle,No,Not Daylight,Yes,,16,Male
+1,0,49,August,Saturday,County Road,Not Col. Moving,Yes,Daylight,No/unknown,55,23,Male
+1,0,35,July,Monday,County Road,Not Col. Moving,Yes,Daylight,No/unknown,55,69,Male
+1,1,81,June,Thursday,Local Street,Not Col. Moving,No,Daylight,No/unknown,45,31,Male
+1,1,121,August,Wednesday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,50,63,Male
+2,0,15,August,Wednesday,State Highway,Angle,No,Daylight,No/unknown,55,82,Male
+1,1,165,August,Saturday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,40,61,Male
+1,0,99,August,Sunday,County Road,Not Col. Moving,No,Not Daylight,Yes,55,31,Male
+2,0,159,August,Thursday,County Road,Front-to-Front,No,Daylight,No/unknown,55,66,Male
+1,0,21,August,Sunday,County Road,Not Col. Moving,Yes,Not Daylight,No/unknown,25,31,Male
+1,1,125,August,Sunday,U.S. Highway,Not Col. Moving,No,Not Daylight,No/unknown,50,20,Female
+1,1,37,September,Tuesday,County Road,Not Col. Moving,No,Daylight,No/unknown,55,23,Female
+1,1,163,July,Monday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,35,21,Female
+1,1,139,August,Friday,County Road,Not Col. Moving,No,Not Daylight,No/unknown,55,18,Female
+1,0,121,August,Thursday,Local Street,Not Col. Moving,No,Daylight,Yes,25,18,Male
+1,0,67,August,Friday,County Road,Not Col. Moving,No,Daylight,No/unknown,55,74,Male
+2,0,87,September,Wednesday,Interstate,Front-to-Front,Yes,Not Daylight,No/unknown,70,53,Female
+1,0,163,August,Tuesday,Interstate,Not Col. Moving,No,Daylight,Yes,55,20,Male
+1,0,163,August,Sunday,Interstate,Not Col. Moving,Yes,Not Daylight,Yes,70,21,Female
+2,0,123,September,Thursday,County Road,Angle,No,Not Daylight,No/unknown,,18,Male
+1,0,81,August,Saturday,Local Street,Not Col. Moving,Yes,Daylight,No/unknown,25,92,Male
+2,0,163,August,Sunday,Local Street,Angle,No,Not Daylight,No/unknown,,60,Male
+1,1,21,September,Wednesday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,45,75,Male
+2,0,157,September,Friday,County Road,Angle,No,Daylight,No/unknown,55,91,Male
+1,0,77,August,Thursday,County Road,Not Col. Moving,No,Daylight,No/unknown,55,17,Female
+2,0,139,September,Friday,Interstate,Front-to-Front,No,Daylight,No/unknown,70,83,Male
+1,0,7,September,Sunday,County Road,Not Col. Moving,No,Not Daylight,Yes,55,16,Female
+1,0,163,September,Saturday,Local Street,Not Col. Moving,No,Daylight,No/unknown,35,24,Male
+1,0,91,August,Friday,County Road,Not Col. Moving,No,Daylight,No/unknown,55,54,Male
+1,0,163,February,Wednesday,Local Street,Not Col. Moving,Yes,Not Daylight,Yes,30,28,Male
+2,0,155,September,Sunday,County Road,Sideswipe,No,Daylight,Yes,55,68,Male
+1,0,115,September,Thursday,Local Street,Not Col. Moving,Yes,Not Daylight,No/unknown,55,20,Female
+2,0,81,September,Saturday,Local Street,Angle,No,Daylight,No/unknown,,22,Male
+1,1,163,August,Saturday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,30,,Unknown
+2,0,165,September,Saturday,State Highway,Angle,Yes,Not Daylight,Yes,55,24,Male
+1,0,163,September,Friday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,25,32,Male
+1,0,101,September,Thursday,County Road,Not Col. Moving,No,Daylight,No/unknown,55,89,Male
+1,1,125,September,Friday,State Highway,Not Col. Moving,No,Daylight,No/unknown,35,19,Female
+1,0,45,September,Saturday,County Road,Not Col. Moving,Yes,Daylight,No/unknown,55,48,Female
+1,1,163,September,Saturday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,35,,Unknown
+1,1,125,September,Friday,County Road,Not Col. Moving,No,Not Daylight,No/unknown,40,69,Male
+1,1,125,July,Wednesday,Local Street,Not Col. Moving,No,Daylight,No/unknown,,48,Male
+2,0,163,July,Saturday,Local Street,Angle,No,Not Daylight,Yes,,,Unknown
+4,0,139,September,Tuesday,State Highway,Angle,No,Daylight,No/unknown,,68,Male
+2,0,35,September,Monday,County Road,Angle,Yes,Daylight,No/unknown,,29,Female
+2,0,81,September,Wednesday,County Road,Angle,Yes,Not Daylight,No/unknown,,26,Male
+2,0,65,September,Tuesday,State Highway,Front-to-Front,No,Not Daylight,No/unknown,55,31,Male
+2,0,81,September,Thursday,State Highway,Angle,No,Not Daylight,Yes,,25,Male
+2,0,99,September,Monday,Local Street,Angle,No,Not Daylight,No/unknown,35,28,Female
+1,0,163,September,Thursday,Interstate,Not Col. Moving,No,Not Daylight,No/unknown,70,27,Male
+2,0,51,September,Thursday,State Highway,Front-to-Rear,No,Daylight,No/unknown,55,65,Male
+3,0,163,September,Friday,Interstate,Front-to-Rear,Yes,Not Daylight,Yes,70,26,Male
+1,0,81,July,Tuesday,State Highway,Not Col. Moving,No,Daylight,No/unknown,55,66,Female
+1,0,121,September,Sunday,Interstate,Not Col. Moving,No,Not Daylight,Yes,70,19,Male
+1,1,99,September,Saturday,County Road,Not Col. Moving,No,Not Daylight,No/unknown,45,,Unknown
+1,0,125,September,Monday,County Road,Not Col. Moving,Yes,Not Daylight,No/unknown,45,46,Male
+2,0,163,September,Monday,Local Street,Angle,Yes,Daylight,Yes,35,22,Male
+1,1,163,September,Wednesday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,35,21,Female
+1,1,163,September,Tuesday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,40,29,Male
+1,0,125,September,Sunday,County Road,Not Col. Moving,Yes,Not Daylight,Yes,40,21,Male
+1,0,23,September,Saturday,County Road,Not Col. Moving,Yes,Not Daylight,Yes,25,23,Male
+2,0,59,September,Sunday,State Highway,Angle,No,Daylight,No/unknown,,21,Male
+1,0,21,September,Monday,Local Street,Not Col. Moving,No,Not Daylight,Yes,35,22,Male
+2,0,93,September,Friday,County Road,Front-to-Front,No,Not Daylight,No/unknown,,53,Male
+3,0,75,September,Tuesday,U.S. Highway,Not Col. Moving,No,Daylight,No/unknown,55,58,Male
+1,0,49,September,Friday,Local Street,Not Col. Moving,No,Daylight,No/unknown,25,46,Male
+2,0,31,September,Wednesday,State Highway,Front-to-Front,No,Daylight,No/unknown,55,36,Female
+1,0,159,September,Sunday,County Road,Not Col. Moving,Yes,Not Daylight,No/unknown,55,31,Male
+2,0,81,September,Sunday,Local Street,Front-to-Rear,No,Daylight,No/unknown,35,74,Male
+2,0,125,September,Sunday,Interstate,Front-to-Rear,No,Daylight,Yes,70,27,Male
+1,0,87,September,Sunday,Local Street,Not Col. Moving,Yes,Daylight,No/unknown,25,28,Male
+2,0,55,September,Saturday,County Road,Front-to-Front,Yes,Not Daylight,No/unknown,55,19,Male
+2,0,81,September,Sunday,Interstate,Front-to-Front,Yes,Not Daylight,No/unknown,70,40,Female
+1,0,163,September,Saturday,State Highway,Not Col. Moving,No,Not Daylight,Yes,30,21,Male
+2,0,21,September,Tuesday,State Highway,Angle,No,Not Daylight,No/unknown,55,21,Male
+1,1,163,September,Monday,U.S. Highway,Not Col. Moving,No,Daylight,No/unknown,55,61,Male
+1,0,47,September,Tuesday,County Road,Not Col. Moving,Yes,Not Daylight,Yes,55,29,Male
+2,0,163,September,Wednesday,Interstate,Other,No,Not Daylight,No/unknown,60,66,Male
+1,0,81,September,Sunday,Interstate,Not Col. Moving,Yes,Daylight,No/unknown,70,59,Male
+2,0,99,September,Sunday,County Road,Angle,No,Not Daylight,No/unknown,45,52,Male
+2,0,123,September,Saturday,County Road,Angle,No,Not Daylight,No/unknown,55,22,Female
+2,0,65,September,Thursday,U.S. Highway,Front-to-Front,Yes,Not Daylight,No/unknown,70,18,Female
+3,0,163,September,Sunday,State Highway,Sideswipe,Yes,Not Daylight,No/unknown,35,,Unknown
+1,1,115,September,Tuesday,U.S. Highway,Not Col. Moving,No,Daylight,No/unknown,35,51,Female
+1,0,49,September,Saturday,Interstate,Not Col. Moving,Yes,Not Daylight,No/unknown,70,73,Male
+2,0,5,June,Sunday,State Highway,Front-to-Front,No,Daylight,No/unknown,55,23,Female
+1,1,145,August,Saturday,County Road,Not Col. Moving,No,Not Daylight,No/unknown,25,50,Male
+1,0,163,September,Tuesday,Interstate,Not Col. Moving,No,Not Daylight,No/unknown,55,33,Male
+1,0,115,October,Friday,Local Street,Not Col. Moving,Yes,Not Daylight,Yes,35,21,Male
+1,1,123,September,Wednesday,County Road,Not Col. Moving,No,Not Daylight,No/unknown,35,,Unknown
+1,1,67,October,Sunday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,55,33,Male
+2,0,39,September,Monday,State Highway,Angle,No,Daylight,No/unknown,35,60,Female
+1,0,161,September,Tuesday,U.S. Highway,Not Col. Moving,No,Not Daylight,Yes,70,23,Male
+1,1,163,October,Sunday,State Highway,Not Col. Moving,No,Daylight,No/unknown,35,39,Female
+1,0,65,September,Friday,Interstate,Not Col. Moving,Yes,Daylight,Yes,70,47,Female
+2,0,161,September,Wednesday,Interstate,Not Col. Moving,No,Not Daylight,No/unknown,70,48,Male
+2,0,163,October,Monday,County Road,Angle,No,Daylight,Yes,,27,Male
+1,0,47,September,Sunday,County Road,Not Col. Moving,No,Not Daylight,Yes,55,17,Male
+1,1,81,October,Wednesday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,70,18,Male
+1,0,91,September,Sunday,County Road,Not Col. Moving,Yes,Not Daylight,No/unknown,55,49,Female
+2,0,163,September,Friday,State Highway,Front-to-Rear,No,Not Daylight,No/unknown,30,38,Male
+1,0,39,October,Thursday,County Road,Not Col. Moving,Yes,Daylight,Yes,55,69,Male
+1,0,125,September,Monday,County Road,Not Col. Moving,Yes,Daylight,No/unknown,55,22,Female
+1,0,163,October,Saturday,Interstate,Not Col. Moving,No,Not Daylight,Yes,70,49,Male
+1,0,99,October,Monday,Interstate,Not Col. Moving,No,Daylight,No/unknown,70,77,Male
+1,1,103,October,Saturday,U.S. Highway,Not Col. Moving,No,Not Daylight,No/unknown,50,43,Female
+1,1,139,September,Tuesday,U.S. Highway,Not Col. Moving,No,Not Daylight,No/unknown,55,64,Female
+2,0,37,September,Monday,County Road,Angle,No,Daylight,No/unknown,,91,Female
+2,1,87,October,Monday,Local Street,Front-to-Rear,No,Not Daylight,No/unknown,25,18,Female
+2,0,5,September,Sunday,County Road,Front-to-Front,Yes,Daylight,No/unknown,55,32,Male
+1,0,163,September,Saturday,Local Street,Not Col. Moving,No,Daylight,No/unknown,25,26,Male
+1,1,161,September,Friday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,25,23,Female
+1,1,161,June,Thursday,State Highway,Not Col. Moving,No,Daylight,No/unknown,40,25,Male
+1,1,19,August,Friday,County Road,Not Col. Moving,No,Not Daylight,No/unknown,55,42,Male
+2,0,77,August,Tuesday,County Road,Angle,No,Daylight,No/unknown,35,52,Female
+1,1,161,October,Friday,Local Street,Not Col. Moving,No,Daylight,No/unknown,25,48,Male
+2,0,163,October,Tuesday,Local Street,Angle,No,Daylight,No/unknown,,54,Male
+1,1,125,October,Wednesday,Local Street,Not Col. Moving,No,Daylight,No/unknown,25,46,Male
+2,0,163,October,Monday,Interstate,Front-to-Rear,No,Not Daylight,No/unknown,70,22,Male
+1,1,81,October,Friday,Local Street,Not Col. Moving,No,Daylight,No/unknown,45,58,Male
+1,0,75,October,Thursday,County Road,Not Col. Moving,No,Not Daylight,Yes,35,19,Male
+1,1,115,October,Saturday,Interstate,Not Col. Moving,No,Not Daylight,No/unknown,70,24,Female
+2,0,117,October,Friday,County Road,Angle,No,Daylight,No/unknown,,32,Female
+1,1,99,October,Thursday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,25,60,Male
+2,0,81,October,Saturday,County Road,Angle,No,Daylight,No/unknown,,42,Male
+2,0,99,October,Sunday,County Road,Front-to-Front,No,Daylight,No/unknown,45,34,Female
+1,0,163,October,Saturday,Local Street,Not Col. Moving,No,Daylight,No/unknown,35,70,Male
+2,0,139,October,Sunday,County Road,Angle,No,Not Daylight,No/unknown,,42,Female
+1,1,99,October,Monday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,50,25,Female
+1,0,151,October,Tuesday,County Road,Not Col. Moving,No,Not Daylight,Yes,55,20,Female
+1,1,163,October,Sunday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,30,33,Male
+1,0,77,October,Friday,County Road,Not Col. Moving,No,Daylight,Yes,55,22,Male
+1,1,125,October,Tuesday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,45,,Unknown
+1,1,163,October,Saturday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,25,71,Female
+1,0,163,October,Monday,Local Street,Not Col. Moving,Yes,Not Daylight,No/unknown,25,56,Male
+1,0,25,October,Wednesday,Interstate,Not Col. Moving,No,Daylight,No/unknown,70,30,Female
+2,0,81,May,Thursday,State Highway,Front-to-Front,No,Not Daylight,No/unknown,55,27,Female
+1,0,125,August,Tuesday,County Road,Not Col. Moving,No,Daylight,No/unknown,25,85,Female
+2,0,99,October,Friday,State Highway,Front-to-Front,Yes,Not Daylight,No/unknown,50,27,Male
+1,1,65,October,Saturday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,25,53,Male
+1,0,73,October,Friday,County Road,Not Col. Moving,Yes,Not Daylight,Yes,55,46,Male
+1,1,139,October,Tuesday,County Road,Not Col. Moving,No,Not Daylight,No/unknown,55,40,Male
+4,0,163,October,Friday,Interstate,Front-to-Rear,No,Not Daylight,No/unknown,70,22,Male
+2,0,21,October,Sunday,County Road,Angle,No,Daylight,No/unknown,45,84,Male
+2,0,161,October,Friday,County Road,Angle,No,Not Daylight,No/unknown,55,28,Male
+1,0,163,October,Monday,Interstate,Not Col. Moving,No,Not Daylight,Yes,55,39,Male
+1,1,163,October,Friday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,25,,Unknown
+2,0,163,October,Sunday,Local Street,Front-to-Front,No,Daylight,No/unknown,40,21,Male
+2,0,81,October,Monday,State Highway,Angle,No,Daylight,No/unknown,55,22,Male
+2,0,99,October,Tuesday,Interstate,Front-to-Front,Yes,Not Daylight,No/unknown,70,72,Male
+2,0,5,July,Wednesday,County Road,Front-to-Front,No,Daylight,No/unknown,55,41,Female
+1,0,45,September,Tuesday,County Road,Not Col. Moving,No,Daylight,Yes,55,20,Male
+1,0,163,October,Thursday,County Road,Not Col. Moving,No,Not Daylight,No/unknown,40,41,Female
+1,0,87,October,Tuesday,County Road,Not Col. Moving,Yes,Not Daylight,Yes,55,33,Male
+1,0,155,October,Saturday,Interstate,Not Col. Moving,No,Daylight,No/unknown,70,49,Male
+1,0,19,September,Monday,County Road,Not Col. Moving,No,Not Daylight,No/unknown,55,17,Male
+1,0,11,October,Saturday,County Road,Not Col. Moving,Yes,Not Daylight,No/unknown,55,53,Male
+1,0,9,October,Friday,County Road,Not Col. Moving,Yes,Not Daylight,Yes,55,24,Male
+2,0,121,October,Friday,County Road,Angle,Yes,Not Daylight,No/unknown,55,51,Male
+1,0,117,November,Monday,County Road,Not Col. Moving,Yes,Not Daylight,Yes,55,31,Male
+2,0,147,October,Wednesday,County Road,Front-to-Front,No,Daylight,No/unknown,55,76,Female
+1,0,95,October,Tuesday,State Highway,Not Col. Moving,No,Daylight,No/unknown,55,57,Male
+2,0,91,November,Monday,County Road,Angle,No,Daylight,No/unknown,55,56,Male
+1,1,81,October,Friday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,40,39,Male
+1,1,81,October,Thursday,Local Street,Not Col. Moving,No,Daylight,No/unknown,45,87,Male
+3,0,125,November,Wednesday,County Road,Front-to-Front,No,Daylight,No/unknown,50,27,Male
+2,0,109,October,Thursday,County Road,Angle,No,Daylight,No/unknown,55,88,Female
+2,0,125,October,Saturday,County Road,Front-to-Front,Yes,Not Daylight,No/unknown,50,23,Male
+1,0,87,October,Thursday,County Road,Not Col. Moving,Yes,Not Daylight,Yes,55,35,Male
+2,0,5,November,Saturday,County Road,Angle,No,Daylight,No/unknown,55,68,Male
+2,0,27,October,Tuesday,State Highway,Front-to-Front,Yes,Not Daylight,Yes,55,29,Male
+1,0,17,November,Sunday,County Road,Not Col. Moving,Yes,Not Daylight,No/unknown,55,24,Male
+2,0,73,November,Thursday,County Road,Angle,No,Daylight,No/unknown,,52,Female
+1,0,65,October,Monday,Local Street,Not Col. Moving,No,Daylight,Yes,25,27,Male
+1,0,125,October,Tuesday,State Highway,Not Col. Moving,Yes,Not Daylight,Yes,40,33,Male
+1,0,125,October,Friday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,35,72,Male
+2,0,77,November,Friday,Local Street,Angle,No,Not Daylight,No/unknown,,37,Male
+1,1,163,October,Friday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,30,,Unknown
+2,2,163,October,Sunday,Local Street,Front-to-Rear,No,Not Daylight,No/unknown,30,51,Male
+2,0,163,November,Friday,Local Street,Front-to-Front,Yes,Not Daylight,No/unknown,45,48,Male
+1,0,65,October,Friday,Local Street,Not Col. Moving,No,Daylight,Yes,35,23,Male
+1,0,129,November,Saturday,State Highway,Not Col. Moving,No,Daylight,Yes,55,46,Male
+1,0,73,November,Sunday,County Road,Not Col. Moving,Yes,Not Daylight,No/unknown,55,59,Male
+2,0,99,October,Thursday,State Highway,Angle,No,Daylight,No/unknown,55,45,Female
+1,0,25,October,Wednesday,County Road,Not Col. Moving,Yes,Daylight,No/unknown,55,47,Female
+2,0,151,November,Tuesday,State Highway,Angle,No,Daylight,No/unknown,,73,Male
+4,0,163,October,Thursday,Local Street,Sideswipe,No,Daylight,No/unknown,35,62,Male
+2,0,85,November,Sunday,U.S. Highway,Angle,No,Daylight,No/unknown,55,64,Male
+4,0,125,November,Tuesday,State Highway,Front-to-Rear,No,Not Daylight,No/unknown,70,47,Female
+1,1,25,November,Saturday,Interstate,Not Col. Moving,No,Not Daylight,No/unknown,70,19,Male
+3,0,163,August,Thursday,County Road,Angle,No,Daylight,No/unknown,,45,Female
+1,1,77,September,Saturday,State Highway,Not Col. Moving,No,Daylight,No/unknown,55,67,Female
+1,1,91,November,Tuesday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,25,61,Male
+2,0,81,November,Wednesday,County Road,Front-to-Front,No,Daylight,No/unknown,55,44,Female
+2,0,99,November,Saturday,State Highway,Angle,Yes,Not Daylight,No/unknown,,24,Male
+1,0,91,November,Monday,County Road,Not Col. Moving,No,Daylight,Yes,55,16,Male
+2,0,55,November,Tuesday,U.S. Highway,Angle,No,Not Daylight,No/unknown,55,38,Male
+1,0,33,November,Wednesday,County Road,Not Col. Moving,No,Daylight,Yes,55,63,Male
+1,0,77,December,Monday,County Road,Not Col. Moving,Yes,Not Daylight,Yes,55,22,Male
+1,1,99,December,Wednesday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,40,60,Male
+1,0,163,December,Wednesday,Local Street,Not Col. Moving,No,Daylight,No/unknown,30,26,Male
+2,0,65,September,Thursday,State Highway,Angle,No,Daylight,No/unknown,45,65,Male
+1,0,93,December,Saturday,County Road,Not Col. Moving,Yes,Not Daylight,Yes,55,44,Male
+1,0,161,December,Saturday,State Highway,Not Col. Moving,No,Daylight,Yes,,36,Male
+1,1,81,November,Wednesday,Local Street,Not Col. Moving,No,Daylight,No/unknown,45,26,Male
+1,1,163,December,Monday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,45,89,Male
+1,1,125,December,Monday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,35,48,Female
+1,0,15,December,Wednesday,State Highway,Not Col. Moving,Yes,Not Daylight,No/unknown,55,39,Female
+1,1,163,November,Sunday,Interstate,Not Col. Moving,No,Not Daylight,No/unknown,70,66,Female
+2,0,99,December,Thursday,County Road,Front-to-Front,No,Daylight,No/unknown,45,62,Female
+1,0,163,November,Monday,Local Street,Not Col. Moving,No,Not Daylight,Yes,25,20,Male
+1,0,163,December,Monday,Interstate,Not Col. Moving,No,Not Daylight,Yes,55,59,Male
+1,0,129,November,Monday,Interstate,Not Col. Moving,No,Daylight,Yes,70,64,Male
+1,0,107,December,Wednesday,County Road,Not Col. Moving,No,Not Daylight,Yes,55,20,Male
+1,1,125,December,Tuesday,Local Street,Not Col. Moving,No,Daylight,No/unknown,35,65,Female
+2,0,121,December,Monday,County Road,Angle,No,Daylight,No/unknown,55,85,Male
+2,2,65,December,Wednesday,Interstate,Sideswipe,No,Not Daylight,No/unknown,,19,Female
+4,0,49,November,Tuesday,U.S. Highway,Not Col. Moving,No,Daylight,Yes,70,54,Male
+1,0,157,December,Thursday,County Road,Not Col. Moving,No,Not Daylight,Yes,55,85,Male
+1,0,37,December,Thursday,Interstate,Not Col. Moving,No,Daylight,Yes,70,58,Male
+1,0,77,November,Tuesday,County Road,Not Col. Moving,No,Daylight,No/unknown,35,21,Male
+1,0,49,December,Wednesday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,35,27,Male
+2,0,121,December,Saturday,State Highway,Angle,No,Not Daylight,No/unknown,45,44,Male
+4,0,163,November,Saturday,Interstate,Front-to-Rear,No,Daylight,No/unknown,55,37,Male
+1,0,121,December,Sunday,County Road,Not Col. Moving,No,Not Daylight,No/unknown,55,37,Male
+1,0,19,December,Wednesday,County Road,Not Col. Moving,No,Not Daylight,Yes,55,31,Male
+2,0,163,December,Friday,Interstate,Sideswipe,No,Daylight,No/unknown,70,53,Male
+1,0,37,December,Wednesday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,55,53,Male
+1,0,99,December,Tuesday,Local Street,Not Col. Moving,Yes,Daylight,No/unknown,35,43,Male
+2,0,125,December,Monday,County Road,Front-to-Rear,No,Not Daylight,No/unknown,40,84,Male
+1,0,125,December,Friday,Local Street,Not Col. Moving,No,Daylight,No/unknown,45,67,Male
+2,0,103,December,Saturday,U.S. Highway,Angle,No,Daylight,No/unknown,55,62,Female
+1,0,87,December,Wednesday,State Highway,Not Col. Moving,Yes,Not Daylight,No/unknown,55,22,Female
+1,0,125,December,Saturday,Interstate,Not Col. Moving,No,Daylight,Yes,70,40,Male
+2,0,93,December,Wednesday,State Highway,Angle,No,Not Daylight,No/unknown,,23,Male
+1,0,125,December,Friday,Interstate,Not Col. Moving,Yes,Not Daylight,No/unknown,35,21,Male
+1,0,147,November,Saturday,Local Street,Not Col. Moving,No,Daylight,No/unknown,25,39,Male
+1,0,85,December,Monday,U.S. Highway,Not Col. Moving,Yes,Not Daylight,No/unknown,55,52,Male
+1,1,55,December,Tuesday,U.S. Highway,Not Col. Moving,No,Not Daylight,No/unknown,55,39,Male
+1,1,63,December,Thursday,State Highway,Not Col. Moving,Yes,Daylight,No/unknown,55,58,Male
+3,0,73,December,Friday,U.S. Highway,Front-to-Front,No,Not Daylight,No/unknown,70,41,Male
+1,1,149,December,Sunday,U.S. Highway,Not Col. Moving,Yes,Not Daylight,No/unknown,50,24,Male
+1,0,101,December,Sunday,County Road,Not Col. Moving,No,Daylight,Yes,55,56,Male
+2,0,111,December,Thursday,County Road,Angle,No,Daylight,No/unknown,55,25,Female
+1,1,99,December,Wednesday,County Road,Not Col. Moving,No,Not Daylight,No/unknown,45,32,Male
+7,1,49,December,Saturday,County Road,Not Col. Moving,No,Not Daylight,No/unknown,45,17,Female
+1,0,139,December,Thursday,County Road,Not Col. Moving,Yes,Not Daylight,Yes,55,23,Male
+1,0,65,December,Sunday,County Road,Not Col. Moving,No,Not Daylight,Yes,55,25,Male
+1,0,59,December,Monday,County Road,Not Col. Moving,Yes,Daylight,Yes,55,21,Female
+1,1,163,December,Wednesday,County Road,Not Col. Moving,No,Not Daylight,No/unknown,35,69,Male
+1,0,157,December,Saturday,County Road,Not Col. Moving,Yes,Not Daylight,No/unknown,55,27,Male
+2,0,145,December,Tuesday,State Highway,Front-to-Front,No,Daylight,No/unknown,55,19,Male
+1,1,163,April,Monday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,30,,Unknown
+1,0,163,December,Sunday,Local Street,Not Col. Moving,No,Not Daylight,Yes,25,20,Male
+1,0,163,December,Friday,Local Street,Not Col. Moving,No,Not Daylight,Yes,25,19,Male
+1,0,37,December,Friday,County Road,Not Col. Moving,Yes,Not Daylight,No/unknown,55,20,Female
+2,0,163,September,Thursday,State Highway,Angle,No,Daylight,No/unknown,40,40,Male
+2,0,33,December,Saturday,County Road,Angle,No,Not Daylight,No/unknown,35,18,Male
+1,0,59,November,Wednesday,County Road,Not Col. Moving,Yes,Daylight,Yes,55,67,Male
+2,0,139,December,Thursday,Local Street,Sideswipe,No,Daylight,No/unknown,45,85,Female
+1,0,93,November,Saturday,County Road,Not Col. Moving,No,Daylight,Yes,45,19,Male
+1,0,161,November,Wednesday,County Road,Not Col. Moving,Yes,Not Daylight,Yes,55,18,Male
+2,0,73,November,Sunday,County Road,Angle,No,Daylight,No/unknown,,43,Male
+1,1,163,December,Saturday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,,,Unknown
+1,0,163,November,Saturday,Local Street,Not Col. Moving,No,Daylight,No/unknown,35,33,Female
+1,0,161,December,Tuesday,County Road,Not Col. Moving,Yes,Not Daylight,Yes,55,50,Male
+2,0,109,November,Monday,U.S. Highway,Angle,No,Not Daylight,Yes,55,40,Female
+2,0,125,December,Wednesday,U.S. Highway,Angle,No,Not Daylight,No/unknown,,56,Male
+1,0,5,November,Saturday,Interstate,Not Col. Moving,No,Not Daylight,No/unknown,70,35,Female
+1,1,21,December,Wednesday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,55,22,Male
+1,0,49,December,Saturday,Interstate,Not Col. Moving,No,Not Daylight,No/unknown,70,32,Male
+1,0,163,December,Saturday,Local Street,Not Col. Moving,Yes,Not Daylight,No/unknown,25,23,Male
+1,1,125,November,Tuesday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,35,42,Male
+2,0,111,November,Thursday,County Road,Angle,No,Not Daylight,No/unknown,55,33,Male
+2,0,117,November,Wednesday,County Road,Angle,No,Not Daylight,No/unknown,,68,Female
+1,0,75,November,Wednesday,State Highway,Not Col. Moving,Yes,Not Daylight,No/unknown,55,32,Female
+2,0,55,November,Tuesday,U.S. Highway,Angle,No,Daylight,No/unknown,55,76,Male
+1,1,163,December,Saturday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,35,21,Male
+1,1,115,November,Wednesday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,40,51,Female
+2,0,75,November,Sunday,County Road,Angle,No,Not Daylight,No/unknown,,65,Male
+3,0,87,November,Tuesday,State Highway,Front-to-Front,No,Not Daylight,No/unknown,55,29,Female
+2,0,99,December,Thursday,County Road,Front-to-Front,No,Daylight,No/unknown,45,35,Male
+1,0,163,November,Wednesday,Local Street,Not Col. Moving,No,Daylight,No/unknown,30,45,Male
+5,0,49,November,Sunday,Interstate,Front-to-Rear,No,Not Daylight,No/unknown,70,25,Male
+1,0,29,November,Wednesday,U.S. Highway,Not Col. Moving,No,Not Daylight,Yes,55,86,Male
+1,0,93,December,Saturday,County Road,Not Col. Moving,No,Daylight,No/unknown,45,65,Male
+1,0,125,November,Friday,Local Street,Not Col. Moving,No,Daylight,No/unknown,25,39,Female
+2,0,163,November,Saturday,State Highway,Angle,No,Not Daylight,Yes,45,40,Male
+1,1,163,November,Tuesday,Local Street,Not Col. Moving,No,Not Daylight,No/unknown,25,26,Female
+2,0,165,December,Sunday,State Highway,Other,No,Not Daylight,No/unknown,55,24,Female
+4,0,99,December,Wednesday,Local Street,Front-to-Rear,No,Not Daylight,No/unknown,50,65,Female
+1,1,99,November,Friday,Local Street,Not Col. Moving,No,Daylight,No/unknown,25,44,Male
+1,0,109,November,Tuesday,Local Street,Not Col. Moving,No,Daylight,No/unknown,25,54,Male
+2,0,163,November,Sunday,Local Street,Angle,No,Daylight,No/unknown,,51,Male
+2,0,27,November,Thursday,State Highway,Sideswipe,No,Daylight,Yes,55,23,Male
+1,0,99,November,Wednesday,County Road,Not Col. Moving,No,Not Daylight,Yes,55,37,Male
+1,1,125,November,Sunday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,35,28,Male
+3,0,77,November,Thursday,U.S. Highway,Not Col. Moving,No,Not Daylight,Yes,55,76,Male
+1,1,163,December,Monday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,45,,Unknown
+2,0,49,May,Tuesday,County Road,Front-to-Front,No,Daylight,No/unknown,55,54,Male
+2,0,65,July,Friday,County Road,Angle,No,Daylight,No/unknown,,94,Male
+1,0,39,October,Saturday,County Road,Not Col. Moving,Yes,Not Daylight,Yes,25,23,Male
+2,0,163,November,Saturday,Local Street,Angle,Yes,Not Daylight,No/unknown,25,32,Female
+2,0,141,November,Wednesday,U.S. Highway,Angle,No,Not Daylight,Yes,50,60,Male
+1,1,125,November,Tuesday,County Road,Not Col. Moving,No,Not Daylight,No/unknown,50,40,Male
+1,0,65,September,Saturday,U.S. Highway,Not Col. Moving,No,Daylight,No/unknown,70,54,Female
+1,0,163,August,Friday,State Highway,Not Col. Moving,No,Daylight,No/unknown,40,53,Female
+2,1,163,August,Sunday,State Highway,Angle,Yes,Not Daylight,No/unknown,55,,Unknown
+3,0,163,September,Friday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,55,54,Male
+1,0,121,May,Sunday,County Road,Not Col. Moving,No,Not Daylight,No/unknown,55,16,Male
+3,0,163,November,Monday,State Highway,Sideswipe,No,Daylight,No/unknown,50,71,Male
+1,1,99,December,Friday,State Highway,Not Col. Moving,No,Not Daylight,No/unknown,45,34,Male
+1,0,49,December,Tuesday,County Road,Not Col. Moving,No,Daylight,No/unknown,55,54,Male
+1,0,163,May,Sunday,U.S. Highway,Not Col. Moving,No,Daylight,No/unknown,35,56,Female
+2,0,45,February,Saturday,County Road,Angle,No,Daylight,No/unknown,,56,Male
+1,0,49,February,Monday,Interstate,Not Col. Moving,No,Daylight,Yes,70,78,Male
+1,0,25,March,Wednesday,Local Street,Not Col. Moving,No,Daylight,No/unknown,35,83,Male
+1,1,77,May,Monday,State Highway,Not Col. Moving,No,Daylight,No/unknown,35,20,Male
+2,0,99,June,Tuesday,Local Street,Angle,No,Daylight,No/unknown,40,89,Female
+2,0,121,June,Sunday,County Road,Angle,No,Daylight,No/unknown,55,41,Female
+2,0,49,June,Thursday,State Highway,Angle,No,Daylight,No/unknown,,72,Male
+2,0,121,August,Thursday,County Road,Front-to-Front,No,Daylight,No/unknown,45,89,Female
+1,0,77,August,Wednesday,State Highway,Not Col. Moving,No,Daylight,No/unknown,35,86,Female
+1,0,145,August,Sunday,County Road,Not Col. Moving,No,Daylight,No/unknown,55,57,Female
+2,0,25,August,Friday,State Highway,Front-to-Rear,No,Daylight,No/unknown,50,39,Female
+2,0,75,September,Friday,County Road,Angle,No,Daylight,No/unknown,45,63,Female
+2,0,45,October,Tuesday,Interstate,Front-to-Rear,No,Daylight,No/unknown,70,61,Male
+2,0,21,October,Monday,Interstate,Angle,No,Daylight,No/unknown,,76,Male
+3,0,65,October,Friday,State Highway,Angle,No,Daylight,No/unknown,,53,Male
+2,0,23,November,Thursday,County Road,Angle,No,Not Daylight,No/unknown,,84,Female
+2,0,81,December,Monday,State Highway,Front-to-Rear,No,Daylight,Yes,55,76,Female
+2,0,115,December,Thursday,County Road,Sideswipe,Yes,Not Daylight,No/unknown,45,51,Male
+1,1,5,October,Thursday,County Road,Not Col. Moving,No,Daylight,No/unknown,55,50,Male
+2,0,49,July,Friday,County Road,Angle,Yes,Daylight,No/unknown,55,33,Male

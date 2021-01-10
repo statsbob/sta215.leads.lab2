@@ -1,0 +1,156 @@
+---
+title: "Lab2 - FARS"
+author: "Robert Pearson"
+output: html_document
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+
+*Before you proceed, be sure to use SAVE AS to save your own copy of this file (I would just remove "starter" from the file name)*
+
+
+## Additional Setup -- Often this sort of code might not be included or echoed in your document.
+
+### Read FARS data
+
+Read on all fatal vehicle crashes in Michigan in 2014 from a CSV file (comma-separated-values) into a dataframe. 
+
+```{r further-setup}
+FARS_2014_MICH <- read.csv("/cloud/project/FARS_2014_MICH.csv")
+```
+
+### Provide your name for captions
+
+**CHANGE** the value below to be *your name*. You should also **REPLACE** the value for Author at the very top of this document.
+
+```{r name-object}
+myname <- "Your Name Should Go Here"
+```
+
+***
+
+# Categorical Analysis of Fatal Crashes in Michigan in 2014
+
+***
+
+## Part 1 - Complete Code for Graphs Provided
+
+
+### Bar chart for ROUTE (type of road) using basic ggplot2 syntax
+
+```{r route-basic}
+ggplot(FARS_2014_MICH, aes(x=ROUTE)) +
+  geom_bar()
+```
+
+*I would knit this document now. Then look back and forth at the syntax in this markdown file and the generated document, re-knitting as you make changes.*
+
+Notice: This shows counts, and categories are in alphabetic order by default (for a character variable)
+
+
+### Bar chart for ROUTE showing percents and re-ordering categories
+
+The syntax to show percentages is less intuitive, so I'm not expecting you to write this from scratch. Some explanation of the code below:
+
+1. First, create a vector *routes* with ROUTE values in desired order. This will get used to modify the x axis.
+2. `..count..` is a special variable containing the counts for each level of the x variable.
+3. `scale_y_continuous` is used here to format values as percentages rather than in the default decimal form (to see its effect you could comment that line out and re-knit). "Continuous" means that the values can fall anywhere on the number line.
+4. `scale_x_discrete` uses the vector created above to define possible values of the scale for the x axis and specify their order. "Discrete" means there are a limited number of possible values for this axis.
+5. `labs()` adds labels for each axis and the caption
+
+Note you'll get a warning because we didn't provide the value "Unknown" for the x-axis
+
+```{r route-nicer}
+routes <- c("Local Street", "County Road", "State Highway", "U.S. Highway", "Interstate")
+ggplot(FARS_2014_MICH, aes(x=ROUTE)) +
+  geom_bar(aes(y=(..count..)/sum(..count..))) +
+  scale_y_continuous(labels=scales::percent) +
+  scale_x_discrete(limits=routes) +
+  labs(x="Type of Route", y="Relative Frequencies", caption=myname) 
+```
+
+#### Insight/Observation/Commentary
+
+**Replace all of this text with a complete sentence or two.** What's something you might tell a family member or friend about this graph if you were to show it to them? Perhaps something striking, surprising, etc. Do not just state a straight fact ("X% of fatal crashes occured on State Highways")
+
+Example: The percent of fatal crashes that occurred on interstates was a lot lower than I would have expected since the speeds are higher.
+
+
+### Manner of Collision 
+
+Two notes:
+
+* This code should be copied and modified for later plot requests.
+* Not Col. Moving = not a collision with a moving vehicle
+
+```{r mancoll}
+ggplot(FARS_2014_MICH, aes(x=MAN_COLL)) +
+  geom_bar(aes(y=(..count..)/sum(..count..))) +
+  scale_y_continuous(labels=scales::percent)+
+  labs(x="Manner of Collision", y="Relative Frequencies", caption=myname)
+```
+
+
+#### Insight/Observation/Commentary
+
+Write a complete sentence or two. 
+
+*note: For the curious, I included an R script file for exploring the perhaps surprising result shown in this graph. It might provide food for thought. * 
+
+
+
+## Part 2 - Copy/paste/modify code to Produce Graphs
+
+There are three more plots requested below. All of them require the same syntax used for the Manner of Collision plot above. Into each code block you should copy and paste that command and modify the variable name and x-axis label. Be sure to use the exact variable names (including case) as they appear in this names() output. You might delete this paragraph and code block after you've completed everything.
+
+```{r var-names}
+names(FARS_2014_MICH)
+```
+
+
+
+### Did the crash involve Drunk Drivers?
+
+```{r drunk-drivers}
+
+```
+
+#### Insight/Observation/Commentary
+
+Write a complete sentence or two.
+
+
+
+### Did the crash involve speeding?
+
+```{r speeding}
+
+```
+
+#### Insight/Observation/Commentary
+
+Write a complete sentence or two.
+
+
+
+### Sex of Driver 
+
+The sex of the driver on form 1 (crashes may involve multiple drivers). This would be unknown for hit-and-runs.
+
+```{r sex}
+ 
+```
+
+#### Insight/Observation/Commentary
+
+Write a complete sentence or two.
+
+
+## Preparing to Submit
+
+When everything is complete, create a PDF document by selecting the arrow next to Knit, and then Knit to PDF. Once the PDF file is produced, you'll need to download it to your computer for uploading to Blackboard. In the Files pane, select the pdf file. Then from the More menu choose Export. 
