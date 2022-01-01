@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 One of the coolest capabilities of R Studio is the ability to produce reports that contain formatted text, R code, and output produced by R. This is achieved by creating an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. 
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+When you click the **Knit** button a document will be generated that includes both formatted text and the output of any embedded R code chunks within the document, such as the one below. Click on the **Knit** button now to generate an HTML report. 
 
 ```{r cars}
 summary(cars)
@@ -22,19 +22,17 @@ summary(cars)
 
 You can also embed plots, for example:
 
-```{r pressure, echo=FALSE}
+```{r pressure}
 plot(pressure)
 ```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+# Some text formatting examples (This is Header 1)
 
-# Some formatting examples (This is Header1)
+After knitting the document, look at the syntax in the markdown file and the corresponding formatted output in the generated document.
 
-After knitting the document, look at the syntax in this markdown file and the corresponding formatted output in the generated document.
+## Lists (this is Header 2)
 
-## Lists (Header 2)
-
-### Unordered lists (Header 3)
+### Unordered lists (this is Header 3)
 
 * item 1
 * another un-ordered list item
@@ -52,4 +50,4 @@ For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
 ***
 
-## Now, open the R Markdown file Lab 2 FARS.rmd
+## Now, open the R Markdown file Lab 2 FARS starter.rmd

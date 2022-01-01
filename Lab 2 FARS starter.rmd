@@ -6,19 +6,21 @@ output: html_document
 
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo=TRUE, error=TRUE)
 library(tidyverse)
 ```
 
 
-*Before you proceed, be sure to use SAVE AS to save your own copy of this file (I would just remove "starter" from the file name)*
+### Before you proceed:
+* Be sure to use SAVE AS to save your own copy of this RMD file. I would remove "starter" from the file name.
 
+* You should already have gone through the R Markdown Demo.rmd file. If you have not, be sure to do so now.
 
 ## Additional Setup -- Often this sort of code might not be included or echoed in your document.
 
 ### Read FARS data
 
-Read on all fatal vehicle crashes in Michigan in 2014 from a CSV file (comma-separated-values) into a dataframe. 
+Read data on all fatal vehicle crashes in Michigan in 2014 from a CSV file (comma-separated-values) into a dataframe. 
 
 ```{r further-setup}
 FARS_2014_MICH <- read.csv("/cloud/project/FARS_2014_MICH.csv")
@@ -26,7 +28,7 @@ FARS_2014_MICH <- read.csv("/cloud/project/FARS_2014_MICH.csv")
 
 ### Provide your name for captions
 
-**CHANGE** the value below to be *your name*. You should also **REPLACE** the value for Author at the very top of this document.
+**CHANGE** the value below to be *your name*. Keep the object named *myname*. You should also **REPLACE** the value for Author at the very top of this document. 
 
 ```{r name-object}
 myname <- "Your Name Should Go Here"
@@ -48,7 +50,7 @@ ggplot(FARS_2014_MICH, aes(x=ROUTE)) +
   geom_bar()
 ```
 
-*I would knit this document now. Then look back and forth at the syntax in this markdown file and the generated document, re-knitting as you make changes.*
+*I would knit this document now (Knit button above). Then look back and forth at the syntax in this markdown file and the generated document, re-knitting as you make changes.*
 
 Notice: This shows counts, and categories are in alphabetic order by default (for a character variable)
 
