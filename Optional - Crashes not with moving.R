@@ -1,4 +1,5 @@
-FARS_2014_MICH <- read.csv("/cloud/project/FARS_2014_MICH.csv")
+library(tidyverse)
+FARS_2014_MICH <- read.csv("FARS_2014_MICH.csv")
 
 ## The filter command subsets rows based on a condition.
 not.moving <- FARS_2014_MICH %>%
@@ -6,6 +7,5 @@ not.moving <- FARS_2014_MICH %>%
 
 ## Frequencies and proportions of crashes involving different
 ##   numbers of pedestrians
-ped.freqs <- table(not.moving$PEDS)
-ped.freqs
-prop.table(ped.freqs)
+table(not.moving$PEDS)
+proportions(table(not.moving$PEDS))

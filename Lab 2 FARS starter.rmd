@@ -28,7 +28,7 @@ FARS_2014_MICH <- read.csv("/cloud/project/FARS_2014_MICH.csv")
 
 ### Provide your name for captions
 
-**CHANGE** the value below to be *your name*. Keep the object named *myname*. You should also **REPLACE** the value for Author at the very top of this document. 
+**CHANGE** the quoted value below to be *your name*. Keep the object named *myname*. You should also **REPLACE** the value for Author at the very top of this document. 
 
 ```{r name-object}
 myname <- "Your Name Should Go Here"
@@ -50,14 +50,14 @@ ggplot(FARS_2014_MICH, aes(x=ROUTE)) +
   geom_bar()
 ```
 
-*I would knit this document now (Knit button above). Then look back and forth at the syntax in this markdown file and the generated document, re-knitting as you make changes.*
+*I would knit this document now (Knit button above) to create an HTML report. Then look back and forth at the syntax in this markdown file and the generated document, re-knitting as you make changes.*
 
 Notice: This shows counts, and categories are in alphabetic order by default (for a character variable)
 
 
 ### Bar chart for ROUTE showing percents and re-ordering categories
 
-The syntax to show percentages is less intuitive, so I'm not expecting you to write this from scratch. Some explanation of the code below:
+The syntax to show percentages is not very intuitive, so I'm not expecting you to write this from scratch. Later you'll just copy, paste, and modify. I'll explain things for those who are curious. 
 
 1. First, create a vector *routes* with ROUTE values in desired order. This will get used to modify the x axis.
 2. `..count..` is a special variable containing the counts for each level of the x variable.
@@ -78,9 +78,7 @@ ggplot(FARS_2014_MICH, aes(x=ROUTE)) +
 
 #### Insight/Observation/Commentary
 
-**Replace all of this text with a complete sentence or two.** What's something you might tell a family member or friend about this graph if you were to show it to them? Perhaps something striking, surprising, etc. Do not just state a straight fact ("X% of fatal crashes occured on State Highways")
-
-Example: The percent of fatal crashes that occurred on interstates was a lot lower than I would have expected since the speeds are higher.
+**Replace this entire paragraph with a complete sentence or two.** What's something you might tell a family member or friend about this graph if you were to show it to them? Perhaps something striking, surprising, etc. Do not just state a straight fact ("X% of fatal crashes occurred on State Highways")
 
 
 ### Manner of Collision 
@@ -97,18 +95,16 @@ ggplot(FARS_2014_MICH, aes(x=MAN_COLL)) +
   labs(x="Manner of Collision", y="Relative Frequencies", caption=myname)
 ```
 
+*Many of you may not know what to make of the results shown in this graph. I included a separate R script file that you might step through to partially explain things before you write your comments.*
 
 #### Insight/Observation/Commentary
 
 Write a complete sentence or two. 
 
-*note: For the curious, I included an R script file for exploring the perhaps surprising result shown in this graph. It might provide food for thought. * 
-
-
 
 ## Part 2 - Copy/paste/modify code to Produce Graphs
 
-There are three more plots requested below. All of them require the same syntax used for the Manner of Collision plot above. Into each code block you should copy and paste that command and modify the variable name and x-axis label. Be sure to use the exact variable names (including case) as they appear in this names() output. You might delete this paragraph and code block after you've completed everything.
+There are three more plots requested below. All of them require the same syntax used for the Manner of Collision plot above. Into each code chunk you should copy and paste that command and then modify the variable name and x-axis label. Be sure to use the exact variable names (including case) as they appear in this names() output. You might delete this paragraph and code block after you've completed everything.
 
 ```{r var-names}
 names(FARS_2014_MICH)
@@ -122,7 +118,7 @@ names(FARS_2014_MICH)
 
 ```
 
-#### Insight/Observation/Commentary
+#### What's your reaction to this graph?
 
 Write a complete sentence or two.
 
@@ -134,7 +130,7 @@ Write a complete sentence or two.
 
 ```
 
-#### Insight/Observation/Commentary
+#### What's your reaction to this graph?
 
 Write a complete sentence or two.
 
@@ -148,11 +144,11 @@ The sex of the driver on form 1 (crashes may involve multiple drivers). This wou
  
 ```
 
-#### Insight/Observation/Commentary
+#### What's your reaction to this graph?
 
 Write a complete sentence or two.
 
 
 ## Preparing to Submit
 
-When everything is complete, create a PDF document by selecting the arrow next to Knit, and then Knit to PDF. Once the PDF file is produced, you'll need to download it to your computer for uploading to Blackboard. In the Files pane, select the pdf file. Then from the More menu choose Export. 
+When everything is complete, create a PDF document by selecting the arrow next to Knit, and then Knit to PDF. Once the PDF file is produced, you'll need to download it to your computer for uploading to Blackboard. In the Files pane (bottom-right), select the pdf file. Then from the More menu choose Export. 

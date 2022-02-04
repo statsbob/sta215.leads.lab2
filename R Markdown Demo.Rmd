@@ -30,7 +30,7 @@ plot(pressure)
 
 After knitting the document, look at the syntax in the markdown file and the corresponding formatted output in the generated document.
 
-## Lists (this is Header 2)
+## Below are types of lists (this is Header 2)
 
 ### Unordered lists (this is Header 3)
 
@@ -42,7 +42,7 @@ After knitting the document, look at the syntax in the markdown file and the cor
 ### Ordered lists (Header 3)
 
 1. An ordered list
-2. ordered item 2 with *italic* and **bold** text
+1. ordered item 2 with *italic* and **bold** text
 
 ## Further reading
 
